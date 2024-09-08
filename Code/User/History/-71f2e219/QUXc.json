@@ -1,0 +1,16 @@
+{
+    "checker": {
+        "type": "2take1",
+        "directory": "accounts",
+        "account_type": "login:password",
+        "delay": 1000,
+        "default_threads": 20,
+        "output": {
+            
+        }
+    },
+    "proxy": {
+        "type": "http",
+        "directory": "proxies"
+    }
+}

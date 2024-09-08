@@ -1,0 +1,27 @@
+2024-08-18 16:24:10.465 [info] read schema from vscode: vscode://schemas/settings/user
+2024-08-18 16:24:10.472 [info] cancelled
+2024-08-18 16:24:10.963 [info] schema change detected vscode://schemas/settings/user
+2024-08-18 16:24:11.156 [info] cancelled
+2024-08-18 16:24:11.185 [info] read schema from vscode: vscode://schemas/settings/user
+2024-08-18 16:24:11.373 [info] read schema from vscode: vscode://schemas/settings/resourceLanguage
+2024-08-18 16:24:11.375 [info] read schema from vscode: vscode://schemas/ignoredSettings
+2024-08-18 16:24:11.377 [info] read schema from vscode: vscode://schemas/launch
+2024-08-18 16:24:11.383 [info] read schema from vscode: vscode://schemas/token-styling
+2024-08-18 16:24:11.384 [info] read schema from vscode: vscode://schemas/textmate-colors
+2024-08-18 16:24:11.387 [info] read schema from vscode: vscode://schemas/workbench-colors
+2024-08-18 16:24:11.904 [info] schema change detected vscode://schemas/settings/user
+2024-08-18 16:24:11.906 [info] read schema from vscode: vscode://schemas/settings/user
+2024-08-18 16:24:11.955 [info] schema change detected vscode://schemas/settings/resourceLanguage
+2024-08-18 16:24:11.961 [info] schema change detected vscode://schemas/ignoredSettings
+2024-08-18 16:24:12.023 [info] schema change detected vscode://schemas/settings/user
+2024-08-18 16:24:12.135 [info] cancelled
+2024-08-18 16:24:12.135 [info] read schema from vscode: vscode://schemas/settings/user
+2024-08-18 16:24:12.138 [info] schema change detected vscode://schemas/settings/user
+2024-08-18 16:24:12.196 [info] read schema from vscode: vscode://schemas/settings/resourceLanguage
+2024-08-18 16:24:12.196 [info] read schema from vscode: vscode://schemas/ignoredSettings
+2024-08-18 16:24:12.262 [info] schema change detected vscode://schemas/settings/user
+2024-08-18 16:24:12.380 [info] cancelled
+2024-08-18 16:24:13.142 [info] schema change detected vscode://schemas/settings/user
+2024-08-18 16:24:13.216 [info] schema change detected vscode://schemas/settings/user
+2024-08-18 16:24:14.281 [info] schema change detected vscode://schemas/settings/user
+2024-08-18 16:24:22.590 [info] schema change detected vscode://schemas/settings/user

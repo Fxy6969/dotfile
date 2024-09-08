@@ -1,0 +1,58 @@
+2024-08-17 22:24:46.286 [info] Started local extension host with pid 13676.
+2024-08-17 22:24:46.344 [info] Started initializing default profile extensions in extensions installation folder. file:///home/fxy/.vscode/extensions
+2024-08-17 22:24:46.964 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/fxy/.vscode/extensions
+2024-08-17 22:24:49.415 [info] [perf] Render performance baseline is 24ms
+2024-08-17 22:30:25.871 [info] Started local extension host with pid 14976.
+2024-08-17 22:30:27.931 [error] [Extension Host] (node:14976) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2024-08-17 22:30:29.065 [info] [perf] Render performance baseline is 27ms
+2024-08-17 22:30:57.369 [info] Settings Sync: Updating due to change in sessions
+2024-08-17 22:30:57.371 [info] Settings Sync: Updating due to change in sessions
+2024-08-17 22:31:14.524 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2024-08-17 22:31:14.524 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2024-08-17 22:32:37.598 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: issueReporter.experimental.auxWindow
+2024-08-17 22:32:37.966 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2024-08-17 22:35:36.641 [error] Error: file:///home/fxy/Documents/2tal/main.py has changed in the meantime
+    at h.q (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:828:9174)
+    at h.apply (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:828:10033)
+    at w.o (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2450:24903)
+    at w.perform (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2450:24362)
+    at S.apply (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2450:26141)
+    at f.$tryApplyWorkspaceEdit (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1939:17667)
+    at S (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1903:14635)
+    at S.Q (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1903:14401)
+    at S.M (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1903:13434)
+    at S.L (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1903:12490)
+    at u.value (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1903:10964)
+    at o.B (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:93:732)
+    at o.fire (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:93:949)
+    at s.fire (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:123:15085)
+    at K.onmessage (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1919:8198)
+2024-08-17 22:35:36.642 [warning] IGNORING workspace edit: Error: file:///home/fxy/Documents/2tal/main.py has changed in the meantime
+2024-08-17 22:36:38.768 [error] Error: file:///home/fxy/Documents/2tal/main.py has changed in the meantime
+    at h.q (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:828:9174)
+    at h.apply (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:828:10033)
+    at w.o (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2450:24903)
+    at w.perform (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2450:24362)
+    at S.apply (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2450:26141)
+    at f.$tryApplyWorkspaceEdit (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1939:17667)
+    at S (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1903:14635)
+    at S.Q (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1903:14401)
+    at S.M (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1903:13434)
+    at S.L (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1903:12490)
+    at u.value (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1903:10964)
+    at o.B (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:93:732)
+    at o.fire (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:93:949)
+    at s.fire (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:123:15085)
+    at K.onmessage (vscode-file://vscode-app/snap/code/167/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1919:8198)
+2024-08-17 22:36:38.770 [warning] IGNORING workspace edit: Error: file:///home/fxy/Documents/2tal/main.py has changed in the meantime
+2024-08-17 22:59:15.330 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2024-08-17 23:02:22.639 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2024-08-17 23:02:54.744 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2024-08-17 23:21:03.551 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2024-08-17 23:22:02.762 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2024-08-17 23:23:03.202 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2024-08-17 23:29:43.888 [error] An unknown error occurred. Please consult the log for more details.: EntryNotFound (FileSystemError): 
+    at l.readFile (/snap/code/167/usr/share/code/resources/app/extensions/git/dist/main.js:2:900669)
+2024-08-17 23:32:12.322 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2024-08-17 23:37:48.581 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings

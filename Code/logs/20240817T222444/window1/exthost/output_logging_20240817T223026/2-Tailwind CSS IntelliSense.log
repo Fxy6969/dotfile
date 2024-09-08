@@ -1,0 +1,289 @@
+Locating server…
+Booting server...
+Setting up server…
+Listening for messages…
+Searching for Tailwind CSS projects in the workspace's folders.
+[Global] Creating projects: []
+[Global] Preparing projects...
+[Global] Initializing projects...
+[Global] Initialized 0 projects
+[Info  - 10:33:23 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 10:37:49 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/config.json',
+  normalPath: '/home/fxy/Documents/2tal/config.json'
+}
+[Info  - 10:38:09 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 10:38:15 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/config.json',
+  normalPath: '/home/fxy/Documents/2tal/config.json'
+}
+[Info  - 10:38:48 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 10:39:00 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/config.json',
+  normalPath: '/home/fxy/Documents/2tal/config.json'
+}
+[Info  - 10:43:22 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 10:48:28 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/config.json',
+  normalPath: '/home/fxy/Documents/2tal/config.json'
+}
+[Info  - 10:48:28 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 10:54:39 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/config.json',
+  normalPath: '/home/fxy/Documents/2tal/config.json'
+}
+[Info  - 10:55:08 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 10:55:10 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/config.json',
+  normalPath: '/home/fxy/Documents/2tal/config.json'
+}
+[Info  - 10:58:18 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:02:17 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/UrlLoginPass.txt',
+  normalPath: '/home/fxy/Documents/2tal/UrlLoginPass.txt'
+}
+[Info  - 11:02:23 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/UrlLoginPass.txt',
+  normalPath: '/home/fxy/Documents/2tal/UrlLoginPass.txt'
+}
+[Info  - 11:02:23 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/config.json',
+  normalPath: '/home/fxy/Documents/2tal/config.json'
+}
+[Info  - 11:02:54 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/UrlLoginPass.txt',
+  normalPath: '/home/fxy/Documents/2tal/UrlLoginPass.txt'
+}
+[Info  - 11:02:55 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:05:39 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/UrlLoginPass.txt',
+  normalPath: '/home/fxy/Documents/2tal/UrlLoginPass.txt'
+}
+[Info  - 11:05:39 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/config.json',
+  normalPath: '/home/fxy/Documents/2tal/config.json'
+}
+[Info  - 11:05:41 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:07:49 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/UrlLoginPass.txt',
+  normalPath: '/home/fxy/Documents/2tal/UrlLoginPass.txt'
+}
+[Info  - 11:07:51 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:14:02 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:18:35 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:18:42 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:20:19 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/config.json',
+  normalPath: '/home/fxy/Documents/2tal/config.json'
+}
+[Info  - 11:21:04 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/config.json',
+  normalPath: '/home/fxy/Documents/2tal/config.json'
+}
+[Info  - 11:21:04 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:21:08 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/config.json',
+  normalPath: '/home/fxy/Documents/2tal/config.json'
+}
+[Info  - 11:21:31 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:21:33 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/config.json',
+  normalPath: '/home/fxy/Documents/2tal/config.json'
+}
+[Info  - 11:23:04 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:34:01 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:35:14 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/config.json',
+  normalPath: '/home/fxy/Documents/2tal/config.json'
+}
+[Info  - 11:35:16 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:35:38 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/config.json',
+  normalPath: '/home/fxy/Documents/2tal/config.json'
+}
+[Info  - 11:35:44 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:36:51 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/config.json',
+  normalPath: '/home/fxy/Documents/2tal/config.json'
+}
+[Info  - 11:36:54 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:37:00 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/config.json',
+  normalPath: '/home/fxy/Documents/2tal/config.json'
+}
+[Info  - 11:37:01 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:37:05 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/config.json',
+  normalPath: '/home/fxy/Documents/2tal/config.json'
+}
+[Info  - 11:37:07 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:37:09 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/config.json',
+  normalPath: '/home/fxy/Documents/2tal/config.json'
+}
+[Info  - 11:37:10 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:38:34 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:39:15 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/config.json',
+  normalPath: '/home/fxy/Documents/2tal/config.json'
+}
+[Info  - 11:39:19 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:40:47 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:40:52 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/config.json',
+  normalPath: '/home/fxy/Documents/2tal/config.json'
+}
+[Info  - 11:41:04 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:41:16 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:41:24 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:42:58 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/UrlLoginPass.txt',
+  normalPath: '/home/fxy/Documents/2tal/UrlLoginPass.txt'
+}
+[Info  - 11:42:59 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/config.json',
+  normalPath: '/home/fxy/Documents/2tal/config.json'
+}
+[Info  - 11:43:57 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:44:28 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/config.json',
+  normalPath: '/home/fxy/Documents/2tal/config.json'
+}
+[Info  - 11:44:34 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:45:14 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:45:19 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:45:22 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:45:36 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:46:08 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:47:04 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/config.json',
+  normalPath: '/home/fxy/Documents/2tal/config.json'
+}
+[Info  - 11:47:21 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:51:35 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/config.json',
+  normalPath: '/home/fxy/Documents/2tal/config.json'
+}
+[Info  - 11:51:39 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:52:19 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}
+[Info  - 11:52:40 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/fxy/Documents/2tal/main.py',
+  normalPath: '/home/fxy/Documents/2tal/main.py'
+}

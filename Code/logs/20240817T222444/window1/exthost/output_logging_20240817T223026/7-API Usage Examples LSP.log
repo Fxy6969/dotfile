@@ -1,0 +1,31 @@
+Logger Init
+Initialization complete.
+Cached supported calls version 1.5
+Loaded supported calls (Version 1.5)
+Batch of 1 Total time: 133ms (Avg. Per Call: 133ms)
+Batch of 1 Total time: 121ms (Avg. Per Call: 121ms)
+Batch of 1 Total time: 123ms (Avg. Per Call: 123ms)
+getSourceText: unexpected node type 'ERROR'
+getSourceText: unexpected node type 'ERROR'
+getSourceText: unexpected node type 'ERROR'
+Batch of 3 Total time: 153ms (Avg. Per Call: 51ms)
+Batch of 1 Total time: 141ms (Avg. Per Call: 141ms)
+Batch of 1 Total time: 167ms (Avg. Per Call: 167ms)
+Batch of 1 Total time: 134ms (Avg. Per Call: 134ms)
+getSourceText: unexpected node type 'import_prefix'
+Batch of 2 Total time: 208ms (Avg. Per Call: 104ms)
+getSourceText: unexpected node type 'import_prefix'
+getSourceText: unexpected node type 'import_prefix'
+getSourceText: unexpected node type 'import_prefix'
+getSourceText: unexpected node type 'import_prefix'
+getSourceText: unexpected node type 'import_prefix'
+getSourceText: unexpected node type 'import_prefix'
+getSourceText: unexpected node type 'import_prefix'
+getSourceText: unexpected node type 'import_prefix'
+Batch of 13 Total time: 152ms (Avg. Per Call: 12ms)
+Batch of 1 Total time: 201ms (Avg. Per Call: 201ms)
+Batch of 1 Total time: 127ms (Avg. Per Call: 127ms)
+Batch of 31 Total time: 147ms (Avg. Per Call: 5ms)
+Batch of 1 Total time: 122ms (Avg. Per Call: 122ms)
+Batch of 1 Total time: 111ms (Avg. Per Call: 111ms)
+Batch of 2 Total time: 138ms (Avg. Per Call: 69ms)

@@ -1,0 +1,1218 @@
+2024-08-17 22:27:59.909 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-08-17 22:27:59.909 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-08-17 22:27:59.909 [info] Experiment 'pythonSurveyNotification' is active
+2024-08-17 22:27:59.909 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-08-17 22:27:59.909 [info] Experiment 'pythonTestAdapter' is active
+2024-08-17 22:27:59.988 [info] Starting Environment refresh
+2024-08-17 22:27:59.988 [info] Searching for interpreters in posix paths locator
+2024-08-17 22:27:59.996 [info] Searching for pyenv environments
+2024-08-17 22:27:59.996 [info] Searching for conda environments
+2024-08-17 22:27:59.997 [info] Searching for global virtual environments
+2024-08-17 22:27:59.997 [info] Searching for custom virtual environments
+2024-08-17 22:28:00.004 [info] pyenv is not installed
+2024-08-17 22:28:00.004 [info] Finished searching for pyenv environments: 15 milliseconds
+2024-08-17 22:28:00.005 [info] Finished searching for custom virtual envs: 15 milliseconds
+2024-08-17 22:28:00.012 [info] > conda info --json
+2024-08-17 22:28:00.018 [info] Finished searching for global virtual envs: 28 milliseconds
+2024-08-17 22:28:00.031 [info] Found: /bin/python3 --> /bin/python3.11
+2024-08-17 22:28:00.031 [info] Found: /bin/python3.11 --> /bin/python3.11
+2024-08-17 22:28:00.045 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2024-08-17 22:28:00.045 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2024-08-17 22:28:00.071 [info] Finished searching for interpreters in posix paths locator: 82 milliseconds
+2024-08-17 22:28:00.071 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/interpreterInfo.py
+2024-08-17 22:28:00.087 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/interpreterInfo.py
+2024-08-17 22:28:00.087 [info] Environments refresh paths discovered (event): 104 milliseconds
+2024-08-17 22:28:00.087 [info] Environments refresh paths discovered: 104 milliseconds
+2024-08-17 22:28:00.572 [info] Environments refresh finished (event): 589 milliseconds
+2024-08-17 22:28:00.581 [info] Environment refresh took 600 milliseconds
+2024-08-17 22:28:00.588 [info] > pixi --version
+2024-08-17 22:28:00.588 [error] [Error: spawn pixi ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'spawn pixi',
+  path: 'pixi',
+  spawnargs: [ '--version' ]
+}
+2024-08-17 22:28:00.588 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-08-17 22:28:00.597 [info] Python interpreter path: /bin/python3
+2024-08-17 22:28:00.603 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-08-17 22:28:02.355 [info] Starting Pylance language server.
+2024-08-17 22:30:26.810 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-08-17 22:30:26.810 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-08-17 22:30:26.810 [info] Experiment 'pythonSurveyNotification' is active
+2024-08-17 22:30:26.810 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-08-17 22:30:26.810 [info] Experiment 'pythonTestAdapter' is active
+2024-08-17 22:30:26.810 [error] Reading directory to watch failed [Error: ENOENT: no such file or directory, scandir '/home/fxy/Documents/2tal/.pixi/envs'
+	at Object.readdirSync (node:fs:1509:26)
+	at t.readdirSync (node:electron/js2c/node_init:2:11418)
+	at /home/fxy/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:586747
+	at /home/fxy/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:586938
+	at Array.map (<anonymous>)
+	at d.initWatchers (/home/fxy/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:586656)
+	at async d.ensureWatchersReady (/home/fxy/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:543067)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/fxy/Documents/2tal/.pixi/envs'
+}
+2024-08-17 22:30:26.810 [error] Dir "/home/fxy/Documents/2tal/.pixi/envs" is not watchable (directory does not exist)
+2024-08-17 22:30:28.215 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-08-17 22:30:28.215 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-08-17 22:30:28.215 [info] Experiment 'pythonSurveyNotification' is active
+2024-08-17 22:30:28.215 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-08-17 22:30:28.215 [info] Experiment 'pythonTestAdapter' is active
+2024-08-17 22:30:28.215 [error] Reading directory to watch failed [Error: ENOENT: no such file or directory, scandir '/home/fxy/Documents/2tal/.pixi/envs'
+	at Object.readdirSync (node:fs:1509:26)
+	at t.readdirSync (node:electron/js2c/node_init:2:11418)
+	at /home/fxy/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:586747
+	at /home/fxy/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:586938
+	at Array.map (<anonymous>)
+	at d.initWatchers (/home/fxy/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:586656)
+	at runNextTicks (node:internal/process/task_queues:60:5)
+	at process.processImmediate (node:internal/timers:449:9)
+	at async d.ensureWatchersReady (/home/fxy/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:543067)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/fxy/Documents/2tal/.pixi/envs'
+}
+2024-08-17 22:30:28.216 [error] Dir "/home/fxy/Documents/2tal/.pixi/envs" is not watchable (directory does not exist)
+2024-08-17 22:30:28.236 [info] Default formatter is set to null for workspace /home/fxy/Documents/2tal
+2024-08-17 22:30:28.240 [info] Starting Environment refresh
+2024-08-17 22:30:28.251 [info] > pixi --version
+2024-08-17 22:30:28.253 [error] [Error: spawn pixi ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'spawn pixi',
+  path: 'pixi',
+  spawnargs: [ '--version' ]
+}
+2024-08-17 22:30:28.260 [info] > hatch env show --json
+2024-08-17 22:30:28.260 [info] cwd: .
+2024-08-17 22:30:28.261 [info] Python interpreter path: /bin/python3
+2024-08-17 22:30:28.293 [info] Starting Environment refresh
+2024-08-17 22:30:28.306 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/interpreterInfo.py
+2024-08-17 22:30:28.306 [info] Environments refresh paths discovered: 66 milliseconds
+2024-08-17 22:30:28.307 [info] Environments refresh paths discovered: 14 milliseconds
+2024-08-17 22:30:28.336 [info] Environments refresh finished (event): 96 milliseconds
+2024-08-17 22:30:28.336 [info] Environments refresh finished (event): 43 milliseconds
+2024-08-17 22:30:28.337 [info] Environment refresh took 97 milliseconds
+2024-08-17 22:30:28.337 [info] Environment refresh took 44 milliseconds
+2024-08-17 22:30:28.341 [info] > pyenv which python
+2024-08-17 22:30:28.341 [info] cwd: .
+2024-08-17 22:30:28.363 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-08-17 22:30:29.488 [info] Starting Pylance language server.
+2024-08-17 22:32:41.152 [info] Discover tests for workspace name: undefined - uri: /home/fxy/.config/Code/User/settings.json
+2024-08-17 22:32:41.641 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:32:42.495 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:32:49.963 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:32:50.339 [info] Discover tests for workspace name: undefined - uri: /home/fxy/.config/Code/User/settings.json
+2024-08-17 22:32:51.225 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:32:54.526 [info] Discover tests for workspace name: undefined - uri: /home/fxy/.config/Code/User/settings.json
+2024-08-17 22:32:59.495 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:33:03.089 [info] Discover tests for workspace name: undefined - uri: /home/fxy/.config/Code/User/settings.json
+2024-08-17 22:33:06.936 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:33:14.690 [info] Discover tests for workspace name: undefined - uri: /home/fxy/.config/Code/User/settings.json
+2024-08-17 22:33:16.989 [info] Discover tests for workspace name: undefined - uri: /home/fxy/.config/Code/User/settings.json
+2024-08-17 22:33:21.695 [info] Discover tests for workspace name: undefined - uri: /home/fxy/.config/Code/User/settings.json
+2024-08-17 22:33:23.476 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:33:41.285 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:33:48.195 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:33:55.359 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:34:01.524 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:34:04.750 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:34:12.098 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:34:13.411 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:34:16.893 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:34:20.200 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:34:26.969 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:34:31.222 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:34:32.668 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:34:38.134 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:34:41.931 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:34:43.020 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:34:55.195 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:35:07.033 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:35:13.032 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:35:18.338 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:35:20.530 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:35:27.871 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:35:29.934 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:35:32.289 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:35:33.641 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:35:39.695 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:35:43.686 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:35:48.979 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:35:54.167 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:36:03.053 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:36:04.252 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:36:18.327 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:36:19.869 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:36:25.769 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:36:28.668 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:36:30.792 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:36:42.703 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:36:44.139 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:36:48.697 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:36:54.909 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:36:56.749 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:36:59.792 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:37:03.517 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:37:05.156 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:37:11.994 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:37:19.921 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:37:24.523 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:37:31.068 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:37:37.544 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:37:39.800 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:37:43.397 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:37:44.757 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:37:46.952 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:38:40.339 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:38:52.939 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:38:57.704 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:39:00.103 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:39:24.997 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:39:31.707 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:39:35.380 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:39:38.504 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:39:47.671 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:39:57.941 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:40:07.668 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:40:18.181 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:40:27.027 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:40:28.458 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:40:31.443 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:40:34.033 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:40:38.408 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:40:45.221 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:40:47.683 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:40:50.006 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:40:53.991 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:40:58.425 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:41:03.859 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:41:07.177 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:41:12.762 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:41:13.771 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:41:22.073 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:41:24.911 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:41:31.030 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:41:37.686 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:41:41.361 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:41:45.453 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:41:50.197 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:41:54.726 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:41:56.411 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:41:57.881 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:42:02.572 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:42:08.328 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:42:11.921 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:42:14.927 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:42:16.625 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:42:19.395 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:42:20.909 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:42:33.674 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:42:37.185 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:42:46.534 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:42:49.456 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:42:52.064 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:42:57.485 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:43:01.820 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:43:05.218 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:43:16.749 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:43:19.709 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:43:21.685 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:43:23.797 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:43:27.101 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:43:31.193 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:43:33.244 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:43:35.316 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:43:38.368 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:43:40.895 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:43:44.019 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:43:48.720 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:43:51.386 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:43:58.611 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:44:05.276 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:44:10.265 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:44:13.215 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:44:26.394 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:44:30.606 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:44:40.323 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:44:43.885 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:44:49.553 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:44:50.890 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:44:56.638 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:45:07.177 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:45:10.021 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:45:22.772 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:45:30.904 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:45:35.618 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:45:37.056 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:46:27.550 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:46:29.400 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:46:31.785 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:46:32.650 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:46:42.388 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:47:22.608 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:47:28.605 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:47:30.488 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:47:41.845 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:47:45.641 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:47:52.563 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:47:52.867 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:48:39.052 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:48:42.646 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:48:44.325 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:48:49.432 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:48:53.128 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:48:54.829 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:48:56.519 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:48:59.846 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:49:04.996 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:49:09.972 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:49:15.275 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:52:34.395 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:52:35.098 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:52:40.588 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:52:44.903 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:52:59.247 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:53:02.122 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:53:04.018 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:53:11.863 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:53:16.503 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:53:29.316 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:53:30.832 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:53:34.405 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:53:38.081 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:53:42.161 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:53:49.370 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:54:02.768 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:54:05.200 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:54:12.620 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:54:19.662 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:54:21.402 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:54:25.019 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:54:29.190 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:54:31.156 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:58:22.470 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 22:59:18.627 [info] Send text to terminal: w
+2024-08-17 22:59:18.637 [info] Send text to terminal: d
+2024-08-17 22:59:19.181 [info] Send text to terminal: w
+2024-08-17 22:59:19.193 [info] Send text to terminal: d
+2024-08-17 22:59:26.535 [info] Send text to terminal: w
+2024-08-17 22:59:26.639 [info] Send text to terminal: d
+2024-08-17 22:59:26.769 [info] Send text to terminal: w
+2024-08-17 22:59:27.110 [info] Send text to terminal: 
+2024-08-17 22:59:27.899 [info] Send text to terminal: 
+2024-08-17 22:59:29.397 [info] Send text to terminal: p
+2024-08-17 22:59:29.500 [info] Send text to terminal: y
+2024-08-17 22:59:29.842 [info] Send text to terminal: t
+2024-08-17 22:59:30.046 [info] Send text to terminal: h
+2024-08-17 22:59:30.195 [info] Send text to terminal: o
+2024-08-17 22:59:30.482 [info] Send text to terminal: n
+2024-08-17 22:59:30.595 [info] Send text to terminal: 3
+2024-08-17 22:59:31.096 [info] Send text to terminal:  
+2024-08-17 22:59:31.413 [info] Send text to terminal: m
+2024-08-17 22:59:31.534 [info] Send text to terminal: a
+2024-08-17 22:59:31.651 [info] Send text to terminal: i
+2024-08-17 22:59:31.860 [info] Send text to terminal: n
+2024-08-17 22:59:32.278 [info] Send text to terminal: .
+2024-08-17 22:59:32.611 [info] Send text to terminal: p
+2024-08-17 22:59:32.714 [info] Send text to terminal: t
+2024-08-17 22:59:33.452 [info] Send text to terminal: 
+2024-08-17 22:59:33.543 [info] Send text to terminal: y
+2024-08-17 22:59:41.535 [info] Send text to terminal: [200~/home/fxy/Documents/2tal/UrlLoginPass.txt   [201~
+2024-08-17 22:59:43.505 [info] Send text to terminal: [D
+2024-08-17 22:59:43.987 [info] Send text to terminal: [C
+2024-08-17 22:59:44.423 [info] Send text to terminal: [B
+2024-08-17 22:59:44.976 [info] Send text to terminal: [D
+2024-08-17 22:59:45.342 [info] Send text to terminal: [D
+2024-08-17 22:59:45.570 [info] Send text to terminal: [D
+2024-08-17 22:59:46.365 [info] Send text to terminal: 
+2024-08-17 22:59:47.296 [info] Send text to terminal: [A
+2024-08-17 22:59:48.067 [info] Send text to terminal: [D
+2024-08-17 22:59:48.580 [info] Send text to terminal: [D
+2024-08-17 22:59:48.834 [info] Send text to terminal: [D
+2024-08-17 22:59:49.335 [info] Send text to terminal: [D
+2024-08-17 22:59:49.381 [info] Send text to terminal: [D
+2024-08-17 22:59:49.414 [info] Send text to terminal: [D
+2024-08-17 22:59:49.447 [info] Send text to terminal: [D
+2024-08-17 22:59:49.477 [info] Send text to terminal: [D
+2024-08-17 22:59:49.507 [info] Send text to terminal: [D
+2024-08-17 22:59:49.540 [info] Send text to terminal: [D
+2024-08-17 22:59:49.570 [info] Send text to terminal: [D
+2024-08-17 22:59:49.603 [info] Send text to terminal: [D
+2024-08-17 22:59:49.632 [info] Send text to terminal: [D
+2024-08-17 22:59:49.665 [info] Send text to terminal: [D
+2024-08-17 22:59:49.710 [info] Send text to terminal: [D
+2024-08-17 22:59:49.742 [info] Send text to terminal: [D
+2024-08-17 22:59:49.775 [info] Send text to terminal: [D
+2024-08-17 22:59:49.804 [info] Send text to terminal: [D
+2024-08-17 22:59:49.886 [info] Send text to terminal: [D
+2024-08-17 22:59:50.153 [info] Send text to terminal: [C
+2024-08-17 22:59:50.662 [info] Send text to terminal: [C
+2024-08-17 22:59:50.691 [info] Send text to terminal: [C
+2024-08-17 22:59:50.743 [info] Send text to terminal: [C
+2024-08-17 22:59:50.755 [info] Send text to terminal: [C
+2024-08-17 22:59:50.801 [info] Send text to terminal: [C
+2024-08-17 22:59:50.828 [info] Send text to terminal: [C
+2024-08-17 22:59:50.863 [info] Send text to terminal: [C
+2024-08-17 22:59:50.892 [info] Send text to terminal: [C
+2024-08-17 22:59:50.924 [info] Send text to terminal: [C
+2024-08-17 22:59:50.954 [info] Send text to terminal: [C
+2024-08-17 22:59:50.987 [info] Send text to terminal: [C
+2024-08-17 22:59:51.020 [info] Send text to terminal: [C
+2024-08-17 22:59:51.053 [info] Send text to terminal: [C
+2024-08-17 22:59:51.099 [info] Send text to terminal: [C
+2024-08-17 22:59:51.127 [info] Send text to terminal: [C
+2024-08-17 22:59:51.147 [info] Send text to terminal: [B
+2024-08-17 22:59:51.988 [info] Send text to terminal: [C
+2024-08-17 22:59:52.288 [info] Send text to terminal: [B
+2024-08-17 22:59:52.645 [info] Send text to terminal: [A
+2024-08-17 22:59:53.291 [info] Send text to terminal: 
+2024-08-17 22:59:53.816 [info] Send text to terminal: 
+2024-08-17 22:59:53.828 [info] Send text to terminal: 
+2024-08-17 22:59:53.859 [info] Send text to terminal: 
+2024-08-17 22:59:53.927 [info] Send text to terminal: 
+2024-08-17 22:59:53.927 [info] Send text to terminal: 
+2024-08-17 22:59:53.956 [info] Send text to terminal: 
+2024-08-17 22:59:54.010 [info] Send text to terminal: 
+2024-08-17 22:59:54.028 [info] Send text to terminal: 
+2024-08-17 22:59:54.059 [info] Send text to terminal: 
+2024-08-17 22:59:54.111 [info] Send text to terminal: 
+2024-08-17 22:59:54.126 [info] Send text to terminal: 
+2024-08-17 22:59:54.152 [info] Send text to terminal: 
+2024-08-17 22:59:54.183 [info] Send text to terminal: 
+2024-08-17 22:59:54.242 [info] Send text to terminal: 
+2024-08-17 22:59:54.263 [info] Send text to terminal: 
+2024-08-17 22:59:54.292 [info] Send text to terminal: 
+2024-08-17 22:59:54.348 [info] Send text to terminal: 
+2024-08-17 22:59:54.354 [info] Send text to terminal: 
+2024-08-17 22:59:54.386 [info] Send text to terminal: 
+2024-08-17 22:59:54.456 [info] Send text to terminal: 
+2024-08-17 22:59:54.456 [info] Send text to terminal: 
+2024-08-17 22:59:54.479 [info] Send text to terminal: 
+2024-08-17 22:59:54.561 [info] Send text to terminal: 
+2024-08-17 22:59:54.561 [info] Send text to terminal: 
+2024-08-17 22:59:54.588 [info] Send text to terminal: 
+2024-08-17 22:59:54.619 [info] Send text to terminal: 
+2024-08-17 22:59:54.671 [info] Send text to terminal: 
+2024-08-17 22:59:54.682 [info] Send text to terminal: 
+2024-08-17 22:59:54.711 [info] Send text to terminal: 
+2024-08-17 22:59:54.775 [info] Send text to terminal: 
+2024-08-17 22:59:54.775 [info] Send text to terminal: 
+2024-08-17 22:59:54.821 [info] Send text to terminal: 
+2024-08-17 22:59:54.880 [info] Send text to terminal: 
+2024-08-17 22:59:54.882 [info] Send text to terminal: 
+2024-08-17 22:59:54.915 [info] Send text to terminal: 
+2024-08-17 22:59:54.988 [info] Send text to terminal: 
+2024-08-17 22:59:54.988 [info] Send text to terminal: 
+2024-08-17 22:59:55.013 [info] Send text to terminal: 
+2024-08-17 22:59:55.040 [info] Send text to terminal: 
+2024-08-17 22:59:57.837 [info] Send text to terminal: 
+2024-08-17 22:59:57.837 [info] Send text to terminal: 
+2024-08-17 22:59:57.837 [info] Send text to terminal: 
+2024-08-17 22:59:57.837 [info] Send text to terminal: 
+2024-08-17 22:59:57.837 [info] Send text to terminal: 
+2024-08-17 22:59:57.838 [info] Send text to terminal: 
+2024-08-17 22:59:57.846 [info] Discover tests for workspace name: undefined - uri: /home/fxy/.config/Code/User/settings.json
+2024-08-17 22:59:57.863 [info] Send text to terminal: 
+2024-08-17 22:59:57.863 [info] Send text to terminal: 
+2024-08-17 22:59:57.864 [info] Send text to terminal: 
+2024-08-17 22:59:57.864 [info] Send text to terminal: 
+2024-08-17 22:59:57.864 [info] Send text to terminal: 
+2024-08-17 22:59:57.864 [info] Send text to terminal: 
+2024-08-17 22:59:57.864 [info] Send text to terminal: p
+2024-08-17 22:59:57.864 [info] Send text to terminal: y
+2024-08-17 22:59:57.976 [info] Send text to terminal:  
+2024-08-17 22:59:58.247 [info] Send text to terminal: m
+2024-08-17 22:59:58.333 [info] Send text to terminal: a
+2024-08-17 22:59:58.508 [info] Send text to terminal: i
+2024-08-17 22:59:58.728 [info] Send text to terminal: n
+2024-08-17 22:59:59.681 [info] Send text to terminal: .
+2024-08-17 23:00:00.035 [info] Send text to terminal: p
+2024-08-17 23:00:00.177 [info] Send text to terminal: y
+2024-08-17 23:00:00.452 [info] Send text to terminal: 
+2024-08-17 23:00:02.364 [info] Send text to terminal: p
+2024-08-17 23:00:02.377 [info] Send text to terminal: å
+2024-08-17 23:00:02.902 [info] Send text to terminal: 
+2024-08-17 23:00:03.082 [info] Send text to terminal: 
+2024-08-17 23:00:03.514 [info] Send text to terminal: 
+2024-08-17 23:00:03.760 [info] Send text to terminal: p
+2024-08-17 23:00:03.955 [info] Send text to terminal: y
+2024-08-17 23:00:04.188 [info] Send text to terminal: t
+2024-08-17 23:00:04.430 [info] Send text to terminal: h
+2024-08-17 23:00:04.552 [info] Send text to terminal: o
+2024-08-17 23:00:04.855 [info] Send text to terminal: n
+2024-08-17 23:00:04.970 [info] Send text to terminal: 3
+2024-08-17 23:00:05.322 [info] Send text to terminal:  
+2024-08-17 23:00:05.513 [info] Send text to terminal: m
+2024-08-17 23:00:05.674 [info] Send text to terminal: a
+2024-08-17 23:00:05.828 [info] Send text to terminal: i
+2024-08-17 23:00:06.074 [info] Send text to terminal: n
+2024-08-17 23:00:06.414 [info] Send text to terminal: .
+2024-08-17 23:00:06.699 [info] Send text to terminal: p
+2024-08-17 23:00:06.830 [info] Send text to terminal: y
+2024-08-17 23:00:07.410 [info] Send text to terminal: 
+2024-08-17 23:00:13.559 [info] Send text to terminal: /home/fxy/Documents/2tal/UrlLoginPass.txt   
+2024-08-17 23:00:14.641 [info] Send text to terminal: 
+2024-08-17 23:00:15.045 [info] Send text to terminal: 
+2024-08-17 23:00:15.253 [info] Send text to terminal: 
+2024-08-17 23:00:15.555 [info] Send text to terminal: 
+2024-08-17 23:00:16.439 [info] Send text to terminal: t
+2024-08-17 23:00:16.769 [info] Send text to terminal: 
+2024-08-17 23:00:26.331 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:00:29.337 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:00:31.553 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:00:34.209 [info] Send text to terminal: [A
+2024-08-17 23:00:34.722 [info] Send text to terminal: 
+2024-08-17 23:00:36.435 [info] Send text to terminal: /home/fxy/Documents/2tal/UrlLoginPass.txt   
+2024-08-17 23:00:37.118 [info] Send text to terminal: 
+2024-08-17 23:00:37.525 [info] Send text to terminal: 
+2024-08-17 23:00:37.709 [info] Send text to terminal: 
+2024-08-17 23:00:38.089 [info] Send text to terminal: 
+2024-08-17 23:00:44.394 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:00:45.549 [info] Send text to terminal: [A
+2024-08-17 23:00:45.946 [info] Send text to terminal: 
+2024-08-17 23:00:47.003 [info] Send text to terminal: /home/fxy/Documents/2tal/UrlLoginPass.txt   
+2024-08-17 23:00:47.708 [info] Send text to terminal: 
+2024-08-17 23:00:47.907 [info] Send text to terminal: 
+2024-08-17 23:00:48.125 [info] Send text to terminal: 
+2024-08-17 23:00:48.442 [info] Send text to terminal: 
+2024-08-17 23:01:58.740 [info] Send text to terminal: g
+2024-08-17 23:01:58.750 [info] Send text to terminal: h
+2024-08-17 23:01:58.971 [info] Send text to terminal: g
+2024-08-17 23:01:59.398 [info] Send text to terminal: 
+2024-08-17 23:02:00.454 [info] Send text to terminal: c
+2024-08-17 23:02:00.553 [info] Send text to terminal: l
+2024-08-17 23:02:00.630 [info] Send text to terminal: s
+2024-08-17 23:02:00.786 [info] Send text to terminal: 
+2024-08-17 23:02:01.474 [info] Send text to terminal: c
+2024-08-17 23:02:01.847 [info] Send text to terminal: l
+2024-08-17 23:02:01.964 [info] Send text to terminal: e
+2024-08-17 23:02:02.036 [info] Send text to terminal: a
+2024-08-17 23:02:02.200 [info] Send text to terminal: r
+2024-08-17 23:02:02.353 [info] Send text to terminal: 
+2024-08-17 23:02:04.517 [info] Send text to terminal: m
+2024-08-17 23:02:04.915 [info] Send text to terminal: 
+2024-08-17 23:02:05.404 [info] Send text to terminal: p
+2024-08-17 23:02:05.505 [info] Send text to terminal: y
+2024-08-17 23:02:05.652 [info] Send text to terminal: t
+2024-08-17 23:02:05.840 [info] Send text to terminal: h
+2024-08-17 23:02:05.922 [info] Send text to terminal: o
+2024-08-17 23:02:06.154 [info] Send text to terminal: n
+2024-08-17 23:02:06.227 [info] Send text to terminal: 3
+2024-08-17 23:02:06.328 [info] Send text to terminal:  
+2024-08-17 23:02:06.482 [info] Send text to terminal: m
+2024-08-17 23:02:06.606 [info] Send text to terminal: a
+2024-08-17 23:02:06.705 [info] Send text to terminal: i
+2024-08-17 23:02:06.894 [info] Send text to terminal: n
+2024-08-17 23:02:07.151 [info] Send text to terminal: .
+2024-08-17 23:02:07.401 [info] Send text to terminal: p
+2024-08-17 23:02:07.487 [info] Send text to terminal: y
+2024-08-17 23:02:07.672 [info] Send text to terminal: 
+2024-08-17 23:02:08.296 [info] Send text to terminal: /home/fxy/Documents/2tal/UrlLoginPass.txt   
+2024-08-17 23:02:09.102 [info] Send text to terminal: 
+2024-08-17 23:02:09.299 [info] Send text to terminal: 
+2024-08-17 23:02:09.558 [info] Send text to terminal: 
+2024-08-17 23:02:09.841 [info] Send text to terminal: 
+2024-08-17 23:02:19.315 [info] Send text to terminal: 
+2024-08-17 23:02:27.577 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:02:28.282 [info] Send text to terminal: [A
+2024-08-17 23:02:28.857 [info] Send text to terminal: 
+2024-08-17 23:02:29.770 [info] Send text to terminal: /home/fxy/Documents/2tal/UrlLoginPass.txt   
+2024-08-17 23:02:30.469 [info] Send text to terminal: 
+2024-08-17 23:02:31.823 [info] Send text to terminal: [200~/home/fxy/Documents/2tal/UrlLoginPass.txt   [201~
+2024-08-17 23:02:32.936 [info] Send text to terminal: 
+2024-08-17 23:02:33.457 [info] Send text to terminal: 
+2024-08-17 23:02:33.961 [info] Send text to terminal: 
+2024-08-17 23:02:33.991 [info] Send text to terminal: 
+2024-08-17 23:02:34.037 [info] Send text to terminal: 
+2024-08-17 23:02:34.069 [info] Send text to terminal: 
+2024-08-17 23:02:34.100 [info] Send text to terminal: 
+2024-08-17 23:02:34.130 [info] Send text to terminal: 
+2024-08-17 23:02:34.165 [info] Send text to terminal: 
+2024-08-17 23:02:34.196 [info] Send text to terminal: 
+2024-08-17 23:02:34.224 [info] Send text to terminal: 
+2024-08-17 23:02:34.255 [info] Send text to terminal: 
+2024-08-17 23:02:34.303 [info] Send text to terminal: 
+2024-08-17 23:02:34.333 [info] Send text to terminal: 
+2024-08-17 23:02:34.363 [info] Send text to terminal: 
+2024-08-17 23:02:34.394 [info] Send text to terminal: 
+2024-08-17 23:02:34.429 [info] Send text to terminal: 
+2024-08-17 23:02:34.459 [info] Send text to terminal: 
+2024-08-17 23:02:34.489 [info] Send text to terminal: 
+2024-08-17 23:02:34.519 [info] Send text to terminal: 
+2024-08-17 23:02:34.552 [info] Send text to terminal: 
+2024-08-17 23:02:34.598 [info] Send text to terminal: 
+2024-08-17 23:02:34.633 [info] Send text to terminal: 
+2024-08-17 23:02:34.663 [info] Send text to terminal: 
+2024-08-17 23:02:34.692 [info] Send text to terminal: 
+2024-08-17 23:02:34.723 [info] Send text to terminal: 
+2024-08-17 23:02:34.754 [info] Send text to terminal: 
+2024-08-17 23:02:34.793 [info] Send text to terminal: 
+2024-08-17 23:02:34.820 [info] Send text to terminal: 
+2024-08-17 23:02:34.863 [info] Send text to terminal: 
+2024-08-17 23:02:34.896 [info] Send text to terminal: 
+2024-08-17 23:02:34.930 [info] Send text to terminal: 
+2024-08-17 23:02:34.955 [info] Send text to terminal: 
+2024-08-17 23:02:34.988 [info] Send text to terminal: 
+2024-08-17 23:02:35.021 [info] Send text to terminal: 
+2024-08-17 23:02:35.050 [info] Send text to terminal: 
+2024-08-17 23:02:35.101 [info] Send text to terminal: 
+2024-08-17 23:02:35.125 [info] Send text to terminal: 
+2024-08-17 23:02:35.165 [info] Send text to terminal: 
+2024-08-17 23:02:35.187 [info] Send text to terminal: 
+2024-08-17 23:02:35.226 [info] Send text to terminal: 
+2024-08-17 23:02:35.257 [info] Send text to terminal: 
+2024-08-17 23:02:35.279 [info] Send text to terminal: 
+2024-08-17 23:02:35.326 [info] Send text to terminal: 
+2024-08-17 23:02:35.357 [info] Send text to terminal: 
+2024-08-17 23:02:35.394 [info] Send text to terminal: 
+2024-08-17 23:02:35.417 [info] Send text to terminal: 
+2024-08-17 23:02:35.449 [info] Send text to terminal: 
+2024-08-17 23:02:35.493 [info] Send text to terminal: 
+2024-08-17 23:02:35.511 [info] Send text to terminal: 
+2024-08-17 23:02:35.558 [info] Send text to terminal: 
+2024-08-17 23:02:35.593 [info] Send text to terminal: 
+2024-08-17 23:02:35.623 [info] Send text to terminal: 
+2024-08-17 23:02:36.322 [info] Send text to terminal: m
+2024-08-17 23:02:36.629 [info] Send text to terminal: a
+2024-08-17 23:02:37.286 [info] Send text to terminal: i
+2024-08-17 23:02:37.494 [info] Send text to terminal: n
+2024-08-17 23:02:37.865 [info] Send text to terminal: .
+2024-08-17 23:02:38.103 [info] Send text to terminal: p
+2024-08-17 23:02:38.187 [info] Send text to terminal: y
+2024-08-17 23:02:38.351 [info] Send text to terminal: 
+2024-08-17 23:02:40.396 [info] Send text to terminal: p
+2024-08-17 23:02:40.568 [info] Send text to terminal: y
+2024-08-17 23:02:40.746 [info] Send text to terminal: t
+2024-08-17 23:02:40.918 [info] Send text to terminal: h
+2024-08-17 23:02:40.965 [info] Send text to terminal: o
+2024-08-17 23:02:41.198 [info] Send text to terminal: n
+2024-08-17 23:02:41.272 [info] Send text to terminal: 3
+2024-08-17 23:02:41.366 [info] Send text to terminal:  
+2024-08-17 23:02:41.477 [info] Send text to terminal: m
+2024-08-17 23:02:41.628 [info] Send text to terminal: a
+2024-08-17 23:02:41.716 [info] Send text to terminal: i
+2024-08-17 23:02:41.919 [info] Send text to terminal: n
+2024-08-17 23:02:42.201 [info] Send text to terminal: .
+2024-08-17 23:02:42.468 [info] Send text to terminal: p
+2024-08-17 23:02:42.540 [info] Send text to terminal: y
+2024-08-17 23:02:42.739 [info] Send text to terminal: 
+2024-08-17 23:02:43.397 [info] Send text to terminal: /home/fxy/Documents/2tal/UrlLoginPass.txt   
+2024-08-17 23:02:44.060 [info] Send text to terminal: 
+2024-08-17 23:02:44.258 [info] Send text to terminal: 
+2024-08-17 23:02:44.461 [info] Send text to terminal: 
+2024-08-17 23:02:44.853 [info] Send text to terminal: 
+2024-08-17 23:02:55.405 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:02:58.409 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:03:00.906 [info] Send text to terminal: [A
+2024-08-17 23:03:01.827 [info] Send text to terminal: 
+2024-08-17 23:03:02.587 [info] Send text to terminal: /home/fxy/Documents/2tal/UrlLoginPass.txt   
+2024-08-17 23:03:03.229 [info] Send text to terminal: 
+2024-08-17 23:03:03.448 [info] Send text to terminal: 
+2024-08-17 23:03:03.701 [info] Send text to terminal: 
+2024-08-17 23:03:04.020 [info] Send text to terminal: 
+2024-08-17 23:03:12.085 [info] Send text to terminal: [A
+2024-08-17 23:03:12.757 [info] Send text to terminal: [B
+2024-08-17 23:03:13.181 [info] Send text to terminal: 
+2024-08-17 23:03:13.348 [info] Send text to terminal: 
+2024-08-17 23:03:13.498 [info] Send text to terminal: 
+2024-08-17 23:03:14.005 [info] Send text to terminal: 
+2024-08-17 23:03:14.037 [info] Send text to terminal: 
+2024-08-17 23:03:14.067 [info] Send text to terminal: 
+2024-08-17 23:03:14.100 [info] Send text to terminal: 
+2024-08-17 23:03:14.134 [info] Send text to terminal: 
+2024-08-17 23:03:14.160 [info] Send text to terminal: 
+2024-08-17 23:03:14.202 [info] Send text to terminal: 
+2024-08-17 23:03:14.224 [info] Send text to terminal: 
+2024-08-17 23:03:14.270 [info] Send text to terminal: 
+2024-08-17 23:03:14.302 [info] Send text to terminal: 
+2024-08-17 23:03:14.339 [info] Send text to terminal: 
+2024-08-17 23:03:14.369 [info] Send text to terminal: 
+2024-08-17 23:03:14.400 [info] Send text to terminal: 
+2024-08-17 23:03:14.956 [info] Send text to terminal: 
+2024-08-17 23:03:22.721 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:03:28.674 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:03:34.992 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:03:39.278 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:03:44.091 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:03:47.564 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:03:48.988 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:03:51.950 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:03:53.508 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:03:59.085 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:04:05.874 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:04:10.854 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:05:25.785 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:05:31.124 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:05:35.408 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:05:38.623 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:05:48.145 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:05:54.552 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:05:56.577 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:06:04.482 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:06:13.184 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:06:14.691 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:06:16.643 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:06:20.644 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:06:23.464 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:06:29.989 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:06:32.401 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:06:39.312 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:06:55.675 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:06:57.344 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:06:59.553 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:07:02.472 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:07:11.026 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:07:13.454 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:07:22.622 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:07:26.053 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:07:29.004 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:07:36.780 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:07:41.332 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:07:42.825 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:07:46.317 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:07:59.304 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:08:00.597 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:08:03.025 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:08:07.564 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:08:11.359 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:08:12.583 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:08:19.566 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:10:03.747 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:10:06.871 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:10:09.136 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:10:18.254 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:10:25.363 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:10:33.548 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:10:37.035 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:10:49.683 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:10:54.210 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:10:57.650 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:11:12.242 [info] Send text to terminal: [200~    print(f"accounts: {modified_line}")[201~
+2024-08-17 23:11:13.137 [info] Send text to terminal: 
+2024-08-17 23:11:13.381 [info] Send text to terminal: 
+2024-08-17 23:11:13.612 [info] Send text to terminal: 
+2024-08-17 23:11:14.126 [info] Send text to terminal: 
+2024-08-17 23:11:14.150 [info] Send text to terminal: 
+2024-08-17 23:11:14.181 [info] Send text to terminal: 
+2024-08-17 23:11:14.211 [info] Send text to terminal: 
+2024-08-17 23:11:14.264 [info] Send text to terminal: 
+2024-08-17 23:11:14.298 [info] Send text to terminal: 
+2024-08-17 23:11:14.321 [info] Send text to terminal: 
+2024-08-17 23:11:14.354 [info] Send text to terminal: 
+2024-08-17 23:11:14.389 [info] Send text to terminal: 
+2024-08-17 23:11:14.422 [info] Send text to terminal: 
+2024-08-17 23:11:14.447 [info] Send text to terminal: 
+2024-08-17 23:11:14.488 [info] Send text to terminal: 
+2024-08-17 23:11:14.530 [info] Send text to terminal: 
+2024-08-17 23:11:14.565 [info] Send text to terminal: 
+2024-08-17 23:11:14.587 [info] Send text to terminal: 
+2024-08-17 23:11:14.628 [info] Send text to terminal: 
+2024-08-17 23:11:14.652 [info] Send text to terminal: 
+2024-08-17 23:11:14.679 [info] Send text to terminal: 
+2024-08-17 23:11:14.718 [info] Send text to terminal: 
+2024-08-17 23:11:14.742 [info] Send text to terminal: 
+2024-08-17 23:11:14.776 [info] Send text to terminal: 
+2024-08-17 23:11:14.817 [info] Send text to terminal: 
+2024-08-17 23:11:14.847 [info] Send text to terminal: 
+2024-08-17 23:11:14.890 [info] Send text to terminal: 
+2024-08-17 23:11:14.913 [info] Send text to terminal: 
+2024-08-17 23:11:14.952 [info] Send text to terminal: 
+2024-08-17 23:11:14.976 [info] Send text to terminal: 
+2024-08-17 23:11:15.011 [info] Send text to terminal: 
+2024-08-17 23:11:15.041 [info] Send text to terminal: 
+2024-08-17 23:11:15.084 [info] Send text to terminal: 
+2024-08-17 23:11:15.116 [info] Send text to terminal: 
+2024-08-17 23:11:15.146 [info] Send text to terminal: 
+2024-08-17 23:11:15.326 [info] Send text to terminal: 
+2024-08-17 23:11:15.522 [info] Send text to terminal: 
+2024-08-17 23:11:15.690 [info] Send text to terminal: 
+2024-08-17 23:11:15.888 [info] Send text to terminal: 
+2024-08-17 23:11:16.245 [info] Send text to terminal: 
+2024-08-17 23:11:16.895 [info] Send text to terminal: 
+2024-08-17 23:11:49.065 [info] Send text to terminal: p
+2024-08-17 23:11:49.236 [info] Send text to terminal: y
+2024-08-17 23:11:49.423 [info] Send text to terminal: t
+2024-08-17 23:11:49.628 [info] Send text to terminal: h
+2024-08-17 23:11:49.691 [info] Send text to terminal: o
+2024-08-17 23:11:49.948 [info] Send text to terminal: n
+2024-08-17 23:11:50.049 [info] Send text to terminal: 3
+2024-08-17 23:11:50.176 [info] Send text to terminal:  
+2024-08-17 23:11:50.323 [info] Send text to terminal: m
+2024-08-17 23:11:50.472 [info] Send text to terminal: a
+2024-08-17 23:11:50.568 [info] Send text to terminal: i
+2024-08-17 23:11:50.784 [info] Send text to terminal: n
+2024-08-17 23:11:51.097 [info] Send text to terminal: .
+2024-08-17 23:11:51.376 [info] Send text to terminal: p
+2024-08-17 23:11:51.523 [info] Send text to terminal: t
+2024-08-17 23:11:52.244 [info] Send text to terminal: 
+2024-08-17 23:11:52.352 [info] Send text to terminal: y
+2024-08-17 23:11:52.511 [info] Send text to terminal: 
+2024-08-17 23:11:54.210 [info] Send text to terminal: U
+2024-08-17 23:11:54.917 [info] Send text to terminal: r
+2024-08-17 23:11:55.064 [info] Send text to terminal: l
+2024-08-17 23:11:56.495 [info] Send text to terminal: L
+2024-08-17 23:11:56.919 [info] Send text to terminal: o
+2024-08-17 23:11:57.074 [info] Send text to terminal: g
+2024-08-17 23:11:57.248 [info] Send text to terminal: i
+2024-08-17 23:11:57.495 [info] Send text to terminal: n
+2024-08-17 23:11:58.299 [info] Send text to terminal: P
+2024-08-17 23:11:58.554 [info] Send text to terminal: a
+2024-08-17 23:11:58.783 [info] Send text to terminal: s
+2024-08-17 23:11:58.942 [info] Send text to terminal: s
+2024-08-17 23:11:59.094 [info] Send text to terminal: .
+2024-08-17 23:11:59.250 [info] Send text to terminal: t
+2024-08-17 23:11:59.606 [info] Send text to terminal: x
+2024-08-17 23:11:59.927 [info] Send text to terminal: t
+2024-08-17 23:12:00.276 [info] Send text to terminal: 
+2024-08-17 23:12:03.146 [info] Send text to terminal: c
+2024-08-17 23:12:03.357 [info] Send text to terminal: d
+2024-08-17 23:12:03.449 [info] Send text to terminal:  
+2024-08-17 23:12:03.681 [info] Send text to terminal: .
+2024-08-17 23:12:03.852 [info] Send text to terminal: .
+2024-08-17 23:12:04.315 [info] Send text to terminal: 
+2024-08-17 23:12:04.507 [info] Send text to terminal: 
+2024-08-17 23:12:04.660 [info] Send text to terminal: 
+2024-08-17 23:12:05.202 [info] Send text to terminal: 
+2024-08-17 23:12:05.202 [info] Send text to terminal: 
+2024-08-17 23:12:05.234 [info] Send text to terminal: 
+2024-08-17 23:12:05.282 [info] Send text to terminal: 
+2024-08-17 23:12:05.293 [info] Send text to terminal: 
+2024-08-17 23:12:05.328 [info] Send text to terminal: 
+2024-08-17 23:12:05.360 [info] Send text to terminal: 
+2024-08-17 23:12:05.382 [info] Send text to terminal: 
+2024-08-17 23:12:05.434 [info] Send text to terminal: 
+2024-08-17 23:12:05.463 [info] Send text to terminal: 
+2024-08-17 23:12:05.818 [info] Send text to terminal: c
+2024-08-17 23:12:06.292 [info] Send text to terminal: l
+2024-08-17 23:12:06.427 [info] Send text to terminal: e
+2024-08-17 23:12:06.537 [info] Send text to terminal: a
+2024-08-17 23:12:06.732 [info] Send text to terminal: r
+2024-08-17 23:12:06.869 [info] Send text to terminal: 
+2024-08-17 23:12:09.379 [info] Send text to terminal: p
+2024-08-17 23:12:09.496 [info] Send text to terminal: y
+2024-08-17 23:12:10.460 [info] Send text to terminal: t
+2024-08-17 23:12:10.636 [info] Send text to terminal: h
+2024-08-17 23:12:10.707 [info] Send text to terminal: o
+2024-08-17 23:12:10.947 [info] Send text to terminal: n
+2024-08-17 23:12:11.709 [info] Send text to terminal: 3
+2024-08-17 23:12:11.821 [info] Send text to terminal:  
+2024-08-17 23:12:12.159 [info] Send text to terminal: m
+2024-08-17 23:12:12.307 [info] Send text to terminal: a
+2024-08-17 23:12:12.883 [info] Send text to terminal: i
+2024-08-17 23:12:13.135 [info] Send text to terminal: n
+2024-08-17 23:12:13.418 [info] Send text to terminal: .
+2024-08-17 23:12:13.645 [info] Send text to terminal: p
+2024-08-17 23:12:13.750 [info] Send text to terminal: y
+2024-08-17 23:12:13.952 [info] Send text to terminal: 
+2024-08-17 23:12:57.570 [info] Send text to terminal: c
+2024-08-17 23:12:57.712 [info] Send text to terminal: l
+2024-08-17 23:12:57.846 [info] Send text to terminal: e
+2024-08-17 23:12:57.929 [info] Send text to terminal: a
+2024-08-17 23:12:58.058 [info] Send text to terminal: r
+2024-08-17 23:12:58.170 [info] Send text to terminal: 
+2024-08-17 23:12:58.980 [info] Send text to terminal: p
+2024-08-17 23:12:59.136 [info] Send text to terminal: y
+2024-08-17 23:12:59.307 [info] Send text to terminal: t
+2024-08-17 23:12:59.530 [info] Send text to terminal: h
+2024-08-17 23:12:59.616 [info] Send text to terminal: o
+2024-08-17 23:12:59.868 [info] Send text to terminal: n
+2024-08-17 23:12:59.954 [info] Send text to terminal: 3
+2024-08-17 23:13:00.040 [info] Send text to terminal:  
+2024-08-17 23:13:00.233 [info] Send text to terminal: m
+2024-08-17 23:13:00.980 [info] Send text to terminal: a
+2024-08-17 23:13:01.042 [info] Send text to terminal: i
+2024-08-17 23:13:01.265 [info] Send text to terminal: n
+2024-08-17 23:13:01.536 [info] Send text to terminal: .
+2024-08-17 23:13:01.761 [info] Send text to terminal: p
+2024-08-17 23:13:01.891 [info] Send text to terminal: y
+2024-08-17 23:13:02.349 [info] Send text to terminal: 
+2024-08-17 23:13:03.245 [info] Send text to terminal: /home/Documents/2TAL/UrlLoginPass.txt
+2024-08-17 23:13:04.664 [info] Send text to terminal: [D
+2024-08-17 23:13:04.853 [info] Send text to terminal: [D
+2024-08-17 23:13:05.394 [info] Send text to terminal: 
+2024-08-17 23:13:05.597 [info] Send text to terminal: 
+2024-08-17 23:13:05.800 [info] Send text to terminal: 
+2024-08-17 23:13:05.969 [info] Send text to terminal: 
+2024-08-17 23:13:06.147 [info] Send text to terminal: 
+2024-08-17 23:13:06.312 [info] Send text to terminal: 
+2024-08-17 23:13:06.538 [info] Send text to terminal: 
+2024-08-17 23:13:29.790 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:13:32.579 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:13:38.454 [info] Send text to terminal: 
+2024-08-17 23:13:38.531 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:13:38.970 [info] Send text to terminal: 
+2024-08-17 23:13:39.003 [info] Send text to terminal: 
+2024-08-17 23:13:39.037 [info] Send text to terminal: 
+2024-08-17 23:13:39.067 [info] Send text to terminal: 
+2024-08-17 23:13:39.098 [info] Send text to terminal: 
+2024-08-17 23:13:39.123 [info] Send text to terminal: 
+2024-08-17 23:13:39.154 [info] Send text to terminal: 
+2024-08-17 23:13:39.200 [info] Send text to terminal: 
+2024-08-17 23:13:39.231 [info] Send text to terminal: 
+2024-08-17 23:13:39.262 [info] Send text to terminal: 
+2024-08-17 23:13:39.294 [info] Send text to terminal: 
+2024-08-17 23:13:39.329 [info] Send text to terminal: 
+2024-08-17 23:13:39.355 [info] Send text to terminal: 
+2024-08-17 23:13:39.383 [info] Send text to terminal: 
+2024-08-17 23:13:39.430 [info] Send text to terminal: 
+2024-08-17 23:13:39.466 [info] Send text to terminal: 
+2024-08-17 23:13:39.493 [info] Send text to terminal: 
+2024-08-17 23:13:39.524 [info] Send text to terminal: 
+2024-08-17 23:13:39.553 [info] Send text to terminal: 
+2024-08-17 23:13:39.587 [info] Send text to terminal: 
+2024-08-17 23:13:39.618 [info] Send text to terminal: 
+2024-08-17 23:13:39.647 [info] Send text to terminal: 
+2024-08-17 23:13:39.694 [info] Send text to terminal: 
+2024-08-17 23:13:39.729 [info] Send text to terminal: 
+2024-08-17 23:13:39.756 [info] Send text to terminal: 
+2024-08-17 23:13:39.792 [info] Send text to terminal: 
+2024-08-17 23:13:39.820 [info] Send text to terminal: 
+2024-08-17 23:13:39.849 [info] Send text to terminal: 
+2024-08-17 23:13:39.879 [info] Send text to terminal: 
+2024-08-17 23:13:39.911 [info] Send text to terminal: 
+2024-08-17 23:13:39.961 [info] Send text to terminal: 
+2024-08-17 23:13:39.989 [info] Send text to terminal: 
+2024-08-17 23:13:40.038 [info] Send text to terminal: 
+2024-08-17 23:13:40.058 [info] Send text to terminal: 
+2024-08-17 23:13:40.084 [info] Send text to terminal: 
+2024-08-17 23:13:40.122 [info] Send text to terminal: 
+2024-08-17 23:13:40.147 [info] Send text to terminal: 
+2024-08-17 23:13:40.177 [info] Send text to terminal: 
+2024-08-17 23:13:40.230 [info] Send text to terminal: 
+2024-08-17 23:13:40.268 [info] Send text to terminal: 
+2024-08-17 23:13:40.291 [info] Send text to terminal: 
+2024-08-17 23:13:40.318 [info] Send text to terminal: 
+2024-08-17 23:13:40.351 [info] Send text to terminal: 
+2024-08-17 23:13:40.383 [info] Send text to terminal: 
+2024-08-17 23:13:40.930 [info] Send text to terminal: /home/fxy/Documents/2tal/UrlLoginPass.txt
+2024-08-17 23:13:41.643 [info] Send text to terminal: 
+2024-08-17 23:13:50.167 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:14:11.642 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:14:12.726 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:14:15.970 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:14:17.601 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:14:20.155 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:14:22.872 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:14:25.334 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:14:28.016 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:14:32.646 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:16:04.916 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:16:15.349 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:16:32.244 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:16:53.725 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:16:56.951 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:17:20.442 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:17:25.083 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:17:26.584 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:17:28.182 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:17:30.499 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:17:32.456 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:17:36.537 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:17:39.836 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:17:42.058 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:17:44.933 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:17:47.495 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:17:50.356 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:17:53.402 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:17:55.239 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:17:56.662 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:17:59.358 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:18:04.514 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:18:11.844 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:18:16.218 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:18:18.528 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:18:38.876 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:18:43.819 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:19:03.355 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:19:06.915 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:19:22.506 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:19:25.692 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:19:28.665 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:20:00.996 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:20:02.645 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:23:09.905 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:23:15.255 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:23:16.835 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:23:20.559 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:23:22.037 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:23:47.250 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:24:03.812 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:24:05.866 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:24:07.578 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:24:13.834 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:24:19.592 [info] Send text to terminal: h
+2024-08-17 23:24:19.881 [info] Send text to terminal: e
+2024-08-17 23:24:20.089 [info] Send text to terminal: r
+2024-08-17 23:24:20.225 [info] Send text to terminal: r
+2024-08-17 23:24:20.285 [info] Send text to terminal: o
+2024-08-17 23:24:21.015 [info] Send text to terminal: 
+2024-08-17 23:24:24.046 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:24:25.491 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:24:27.345 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:24:59.436 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal
+2024-08-17 23:25:04.722 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:32:17.859 [info] Discover tests for workspace name: undefined - uri: /home/fxy/.config/Code/User/settings.json
+2024-08-17 23:32:18.442 [info] Discover tests for workspace name: undefined - uri: /home/fxy/.config/Code/User/settings.json
+2024-08-17 23:34:09.304 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:34:10.972 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:35:02.341 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:35:19.804 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:35:48.884 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:35:55.176 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:35:56.526 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:35:59.007 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:36:16.723 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:36:19.523 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:36:23.572 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:36:26.206 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:36:35.963 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:36:43.358 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:36:44.981 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:36:52.128 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:37:03.635 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:37:07.775 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:37:11.971 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:37:15.573 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:37:19.523 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:37:24.607 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:37:27.115 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:37:30.504 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:38:03.909 [info] Discover tests for workspace name: undefined - uri: /home/fxy/.config/Code/User/settings.json
+2024-08-17 23:39:26.014 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:39:26.828 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:40:01.014 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:40:21.880 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:40:31.824 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:40:34.311 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:40:35.359 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:40:36.686 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:41:29.811 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:41:34.512 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:41:37.031 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:41:38.989 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:41:44.038 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:41:45.373 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:41:51.844 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:42:19.187 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:43:54.593 [info] Send text to terminal: l
+2024-08-17 23:43:57.434 [info] Send text to terminal: l
+2024-08-17 23:43:59.664 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:44:07.179 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:45:25.143 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:45:26.933 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:45:28.595 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:45:41.176 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:45:42.295 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:45:43.056 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:46:10.921 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:46:39.269 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:46:42.840 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:46:45.314 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:51:45.558 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:51:47.086 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:51:51.056 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:51:53.134 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:52:42.722 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:52:45.367 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:52:50.150 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:53:01.234 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:53:05.619 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:53:10.918 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:53:15.845 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:54:56.535 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:54:58.121 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:55:03.054 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:55:07.580 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:55:09.374 [info] > /bin/python3 ~/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/normalizeSelection.py
+2024-08-17 23:55:10.954 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:55:17.802 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:55:18.391 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:55:23.074 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:55:24.986 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:55:34.159 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:55:37.060 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:55:44.595 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:55:45.981 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:55:50.183 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:55:50.877 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:56:05.237 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:56:07.081 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:56:10.918 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:56:11.661 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:56:31.264 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:56:44.887 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:56:47.220 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:57:04.236 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:57:08.470 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:57:53.332 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:58:05.142 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:58:14.566 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:58:25.100 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:58:26.964 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:59:11.320 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:59:14.848 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:59:49.675 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:59:54.096 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:59:57.964 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-17 23:59:58.982 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:00:08.407 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:00:13.900 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:00:16.853 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:00:19.217 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:00:21.891 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:00:22.563 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:00:24.591 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:00:27.656 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:00:33.850 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:00:47.290 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:01:07.103 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:01:08.981 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:01:12.215 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:01:12.500 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:01:25.094 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:02:11.372 [info] Send text to terminal: [200~p1190791Harekan2@[201~
+2024-08-18 00:03:14.837 [info] Send text to terminal: 
+2024-08-18 00:03:15.342 [info] Send text to terminal: 
+2024-08-18 00:03:15.371 [info] Send text to terminal: 
+2024-08-18 00:03:15.404 [info] Send text to terminal: 
+2024-08-18 00:03:15.435 [info] Send text to terminal: 
+2024-08-18 00:03:15.482 [info] Send text to terminal: 
+2024-08-18 00:03:15.514 [info] Send text to terminal: 
+2024-08-18 00:03:15.548 [info] Send text to terminal: 
+2024-08-18 00:03:15.575 [info] Send text to terminal: 
+2024-08-18 00:03:15.605 [info] Send text to terminal: 
+2024-08-18 00:03:15.637 [info] Send text to terminal: 
+2024-08-18 00:03:15.667 [info] Send text to terminal: 
+2024-08-18 00:03:15.712 [info] Send text to terminal: 
+2024-08-18 00:03:15.743 [info] Send text to terminal: 
+2024-08-18 00:03:15.775 [info] Send text to terminal: 
+2024-08-18 00:03:15.805 [info] Send text to terminal: 
+2024-08-18 00:03:15.837 [info] Send text to terminal: 
+2024-08-18 00:03:15.868 [info] Send text to terminal: 
+2024-08-18 00:03:15.900 [info] Send text to terminal: 
+2024-08-18 00:03:15.937 [info] Send text to terminal: 
+2024-08-18 00:03:15.978 [info] Send text to terminal: 
+2024-08-18 00:03:16.011 [info] Send text to terminal: 
+2024-08-18 00:03:16.039 [info] Send text to terminal: 
+2024-08-18 00:03:16.071 [info] Send text to terminal: 
+2024-08-18 00:03:16.101 [info] Send text to terminal: 
+2024-08-18 00:03:16.130 [info] Send text to terminal: 
+2024-08-18 00:03:16.178 [info] Send text to terminal: 
+2024-08-18 00:03:16.206 [info] Send text to terminal: 
+2024-08-18 00:03:16.238 [info] Send text to terminal: 
+2024-08-18 00:03:16.269 [info] Send text to terminal: 
+2024-08-18 00:03:16.299 [info] Send text to terminal: 
+2024-08-18 00:03:44.214 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:03:54.781 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:03:56.745 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:04:04.277 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:04:09.030 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:04:09.969 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:04:24.454 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:05:30.238 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:05:44.923 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:07:25.737 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:07:41.613 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:07:42.815 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:10:20.128 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:18:36.563 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:19:02.702 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:19:04.385 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:19:13.919 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:19:16.861 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:19:18.582 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:19:25.116 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:19:30.332 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:19:32.264 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:19:47.445 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:19:51.733 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:19:53.449 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:21:07.451 [info] Discover tests for workspace name: 2tal - uri: /home/fxy/Documents/2tal/main.py
+2024-08-18 00:36:06.336 [info] Send text to terminal: s
+2024-08-18 00:36:06.644 [info] Send text to terminal: h
+2024-08-18 00:36:06.844 [info] Send text to terminal: u
+2024-08-18 00:36:07.002 [info] Send text to terminal: t
+2024-08-18 00:36:10.153 [info] Send text to terminal: s
+2024-08-18 00:36:10.447 [info] Send text to terminal: h
+2024-08-18 00:36:10.632 [info] Send text to terminal: u
+2024-08-18 00:36:11.124 [info] Send text to terminal: t
+2024-08-18 00:36:11.808 [info] Send text to terminal: d
+2024-08-18 00:36:11.945 [info] Send text to terminal: o
+2024-08-18 00:36:12.096 [info] Send text to terminal: w
+2024-08-18 00:36:12.277 [info] Send text to terminal: n
+2024-08-18 00:36:14.029 [info] Send text to terminal: 
+2024-08-18 00:36:15.861 [info] Send text to terminal: s
+2024-08-18 00:36:16.172 [info] Send text to terminal: h
+2024-08-18 00:36:16.472 [info] Send text to terminal: u
+2024-08-18 00:36:16.651 [info] Send text to terminal: t
+2024-08-18 00:36:16.945 [info] Send text to terminal: d
+2024-08-18 00:36:17.087 [info] Send text to terminal: o
+2024-08-18 00:36:17.191 [info] Send text to terminal: w
+2024-08-18 00:36:17.391 [info] Send text to terminal: n
+2024-08-18 00:36:17.535 [info] Send text to terminal:  
+2024-08-18 00:36:17.808 [info] Send text to terminal: -
+2024-08-18 00:36:18.232 [info] Send text to terminal: r
+2024-08-18 00:36:18.469 [info] Send text to terminal: 
+2024-08-18 00:36:22.725 [info] Send text to terminal: s
+2024-08-18 00:36:22.989 [info] Send text to terminal: u
+2024-08-18 00:36:23.196 [info] Send text to terminal: d
+2024-08-18 00:36:23.324 [info] Send text to terminal: o
+2024-08-18 00:36:23.455 [info] Send text to terminal:  
+2024-08-18 00:36:23.653 [info] Send text to terminal: r
+2024-08-18 00:36:23.883 [info] Send text to terminal: e
+2024-08-18 00:36:24.343 [info] Send text to terminal: b
+2024-08-18 00:36:24.464 [info] Send text to terminal: o
+2024-08-18 00:36:24.618 [info] Send text to terminal: o
+2024-08-18 00:36:24.755 [info] Send text to terminal: t
+2024-08-18 00:36:24.891 [info] Send text to terminal: 
+2024-08-18 00:36:28.110 [info] Send text to terminal: 
+2024-08-18 00:36:31.757 [info] Send text to terminal: r
+2024-08-18 00:36:31.936 [info] Send text to terminal: e
+2024-08-18 00:36:32.247 [info] Send text to terminal: b
+2024-08-18 00:36:32.377 [info] Send text to terminal: o
+2024-08-18 00:36:32.532 [info] Send text to terminal: o
+2024-08-18 00:36:32.636 [info] Send text to terminal: t
+2024-08-18 00:36:32.757 [info] Send text to terminal: 
+2024-08-18 00:36:34.032 [info] Send text to terminal: s
+2024-08-18 00:36:34.179 [info] Send text to terminal: u
+2024-08-18 00:36:34.312 [info] Send text to terminal: d
+2024-08-18 00:36:34.445 [info] Send text to terminal: o
+2024-08-18 00:36:34.851 [info] Send text to terminal:  
+2024-08-18 00:36:35.118 [info] Send text to terminal: r
+2024-08-18 00:36:35.324 [info] Send text to terminal: e
+2024-08-18 00:36:35.660 [info] Send text to terminal: b
+2024-08-18 00:36:35.852 [info] Send text to terminal: o
+2024-08-18 00:36:36.005 [info] Send text to terminal: o
+2024-08-18 00:36:36.133 [info] Send text to terminal: t
+2024-08-18 00:36:36.311 [info] Send text to terminal: 
+2024-08-18 00:36:38.460 [info] Send text to terminal: 6
+2024-08-18 00:36:38.564 [info] Send text to terminal: 9
+2024-08-18 00:36:38.773 [info] Send text to terminal: 6
+2024-08-18 00:36:38.876 [info] Send text to terminal: 9
+2024-08-18 00:36:39.095 [info] Send text to terminal: 
+2024-08-18 00:36:44.396 [info] Send text to terminal: l
+2024-08-18 00:36:44.519 [info] Send text to terminal: a
+2024-08-18 00:36:44.671 [info] Send text to terminal: l
+2024-08-18 00:36:44.944 [info] Send text to terminal: o
+2024-08-18 00:36:45.226 [info] Send text to terminal: s
+2024-08-18 00:36:45.479 [info] Send text to terminal: w
+2024-08-18 00:36:45.696 [info] Send text to terminal: a
+2024-08-18 00:36:45.820 [info] Send text to terminal: n
+2024-08-18 00:36:46.125 [info] Send text to terminal: 
+2024-08-18 00:37:24.888 [info] Send text to terminal: shutdown now
+2024-08-18 00:37:26.096 [info] Send text to terminal: 
+2024-08-18 00:37:26.737 [info] Send text to terminal: [200~shutdown now[201~
+2024-08-18 00:37:27.249 [info] Send text to terminal: 
+2024-08-18 00:37:45.187 [info] Send text to terminal: [200~systemctl poweroff[201~
+2024-08-18 00:37:45.602 [info] Send text to terminal: 

@@ -1,0 +1,36 @@
+2024-08-18 16:24:13.163 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-08-18 16:24:13.163 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-08-18 16:24:13.163 [info] Experiment 'pythonSurveyNotification' is active
+2024-08-18 16:24:13.163 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-08-18 16:24:13.163 [info] Experiment 'pythonTestAdapter' is active
+2024-08-18 16:24:13.163 [error] Reading directory to watch failed Error: ENOENT: no such file or directory, scandir '/home/fxy/Documents/2tal/.pixi/envs'
+    at Object.readdirSync (node:fs:1509:26)
+    at Object.t.readdirSync (node:electron/js2c/node_init:2:11418)
+    at /home/fxy/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:586747
+    at /home/fxy/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:586938
+    at Array.map (<anonymous>)
+    at d.initWatchers (/home/fxy/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:586656)
+    at d.ensureWatchersReady (/home/fxy/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:543067) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/fxy/Documents/2tal/.pixi/envs'
+}
+2024-08-18 16:24:13.163 [error] Dir "/home/fxy/Documents/2tal/.pixi/envs" is not watchable (directory does not exist)
+2024-08-18 16:24:13.163 [info] Default formatter is set to null for workspace /home/fxy/Documents/2tal
+2024-08-18 16:24:13.163 [info] Python interpreter path: /bin/python3
+2024-08-18 16:24:13.184 [info] > pyenv which python
+2024-08-18 16:24:13.184 [info] cwd: .
+2024-08-18 16:24:13.223 [info] > pixi --version
+2024-08-18 16:24:13.224 [error] Error: spawn pixi ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:286:19)
+    at onErrorNT (node:internal/child_process:484:16)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'spawn pixi',
+  path: 'pixi',
+  spawnargs: [ '--version' ]
+}
+2024-08-18 16:24:13.224 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-08-18 16:24:14.228 [info] Starting Pylance language server.

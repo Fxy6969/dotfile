@@ -1,0 +1,33 @@
+2024/08/19-16:27:41.338 1de9 Reusing MANIFEST /home/fxy/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/19-16:27:41.338 1de9 Recovering log #4
+2024/08/19-16:27:41.661 1de9 Reusing old log /home/fxy/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2024/08/19-16:33:26.936 1de9 Level-0 table #8: started
+2024/08/19-16:33:27.010 1de9 Level-0 table #8: 1589037 bytes OK
+2024/08/19-16:33:27.049 1de9 Delete type=0 #4
+2024/08/19-16:36:22.035 1de9 Compacting 1@1 + 1@2 files
+2024/08/19-16:36:22.121 1de9 Generated table #9@1: 342 keys, 35683 bytes
+2024/08/19-16:36:22.121 1de9 Compacted 1@1 + 1@2 files => 35683 bytes
+2024/08/19-16:36:22.227 1de9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/19-16:36:22.227 1de9 Delete type=2 #8
+2024/08/19-16:36:22.228 1de9 Delete type=2 #5
+2024/08/19-16:44:25.996 1dea Level-0 table #11: started
+2024/08/19-16:44:26.109 1dea Level-0 table #11: 1191128 bytes OK
+2024/08/19-16:44:26.151 1dea Delete type=0 #7
+2024/08/19-16:45:50.735 1de9 Compacting 1@1 + 1@2 files
+2024/08/19-16:45:50.796 1de9 Generated table #12@1: 360 keys, 42613 bytes
+2024/08/19-16:45:50.796 1de9 Compacted 1@1 + 1@2 files => 42613 bytes
+2024/08/19-16:45:50.888 1de9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/19-16:45:50.888 1de9 Delete type=2 #11
+2024/08/19-16:45:50.888 1de9 Delete type=2 #9
+2024/08/19-17:19:11.254 1de8 Level-0 table #14: started
+2024/08/19-17:19:11.315 1de8 Level-0 table #14: 1144242 bytes OK
+2024/08/19-17:19:11.349 1de8 Delete type=0 #10
+2024/08/19-17:19:11.350 1de8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/08/19-17:19:11.350 1de8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x1f\x033S\x80W.\x8cyB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 13018 : 1
+2024/08/19-17:19:11.350 1de8 Compacting 1@1 + 1@2 files
+2024/08/19-17:19:11.458 1de8 Generated table #15@1: 322 keys, 76047 bytes
+2024/08/19-17:19:11.459 1de8 Compacted 1@1 + 1@2 files => 76047 bytes
+2024/08/19-17:19:11.491 1de8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/19-17:19:11.491 1de8 Delete type=2 #14
+2024/08/19-17:19:11.491 1de8 Delete type=2 #12
+2024/08/19-17:19:11.492 1de8 Manual compaction at level-1 from '\x00\x08\x01\x1f\x033S\x80W.\x8cyB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 13018 : 1 .. (end); will stop at (end)

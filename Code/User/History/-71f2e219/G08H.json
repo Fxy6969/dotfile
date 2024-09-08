@@ -1,0 +1,29 @@
+{
+    "checker": {
+        "type": "2take1",
+        "directory": "accounts",
+        "account_type": "login:password",
+        "delay": 1000,
+        "default_threads": 20,
+        "retry_timout": 3000,
+        "check_proxy": false,
+        "output": {
+            "valid_directory": "valid",
+            "invalid_directory": "invalid"
+        },
+        "proxy": {
+            "type": "http",
+            "directory": "proxies",
+            "proxy_format": "ip:port"
+        },
+        "url_formatting": {
+            "2take1": [
+                "https://2take1.menu/login:",
+                "https://2take1.menu/verify:",
+                "https://2take1gta.github.io/:",
+                "https://www.2take1.com/:",
+                "https://www.2take1.menu/purchase/:"
+            ]
+        }   
+    }
+}

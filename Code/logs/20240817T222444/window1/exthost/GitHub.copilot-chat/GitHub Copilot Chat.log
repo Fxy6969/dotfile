@@ -1,0 +1,51 @@
+2024-08-17 22:31:13.758 [info] [FetcherService] Using the Helix fetcher.
+2024-08-17 22:31:13.758 [info] [gitExtensionService] Initializing Git extension service.
+2024-08-17 22:31:13.758 [info] [gitExtensionService] Successfully activated the vscode.git extension.
+2024-08-17 22:31:13.758 [info] [gitExtensionService] Enablement state of the vscode.git extension: true.
+2024-08-17 22:31:13.758 [info] [gitExtensionService] Successfully registered Git commit message provider.
+2024-08-17 22:31:13.758 [info] [RemoteAgents] Unable to fetch remote agents because user is not signed in.
+2024-08-17 22:31:13.829 [info] [auth] Logged in as Fxy6969
+2024-08-17 22:31:13.838 [info] [extension] RootCertificateReader removed 3 expired certificates
+2024-08-17 22:31:14.504 [info] [auth] Got Copilot token for Fxy6969
+2024-08-17 22:31:14.521 [info] [chat] copilot token chat_enabled: true
+2024-08-17 22:31:14.521 [info] [githubTitleAndDescriptionProvider] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-08-17 22:31:15.334 [info] [contributions] activationBlocker from 'languageModelAccess' took for 1606ms
+2024-08-17 22:56:14.510 [info] [auth] Logged in as Fxy6969
+2024-08-17 22:56:15.141 [info] [auth] Got Copilot token for Fxy6969
+2024-08-17 22:56:15.147 [info] [chat] copilot token chat_enabled: true
+2024-08-17 23:18:26.982 [info] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 912 ms
+2024-08-17 23:18:30.399 [info] [streamMessages] message 0 returned. finish reason: [stop]
+2024-08-17 23:18:30.400 [info] [streamChoices] request done: requestId: [24cbba4f-11b9-4aca-951e-e16c03515c2d] model deployment ID: []
+2024-08-17 23:18:30.879 [info] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 442 ms
+2024-08-17 23:18:30.885 [info] [streamMessages] message 0 returned. finish reason: [stop]
+2024-08-17 23:18:30.885 [info] [streamChoices] request done: requestId: [cafb1f27-a07c-4ba2-bf3a-b471ae9a89de] model deployment ID: []
+2024-08-17 23:21:15.160 [info] [auth] Logged in as Fxy6969
+2024-08-17 23:21:15.805 [info] [auth] Got Copilot token for Fxy6969
+2024-08-17 23:21:15.809 [info] [chat] copilot token chat_enabled: true
+2024-08-17 23:41:03.750 [info] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 946 ms
+2024-08-17 23:41:07.664 [info] [streamMessages] message 0 returned. finish reason: [stop]
+2024-08-17 23:41:07.664 [info] [streamChoices] request done: requestId: [3d7f2553-b941-4b28-940e-f214ceeea852] model deployment ID: []
+2024-08-17 23:41:08.246 [info] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 514 ms
+2024-08-17 23:41:08.272 [info] [streamMessages] message 0 returned. finish reason: [stop]
+2024-08-17 23:41:08.273 [info] [streamChoices] request done: requestId: [d3e99877-8a77-43c7-b9c2-552547f1fdf7] model deployment ID: []
+2024-08-17 23:44:58.837 [info] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 939 ms
+2024-08-17 23:45:03.865 [info] [streamMessages] message 0 returned. finish reason: [stop]
+2024-08-17 23:45:03.866 [info] [streamChoices] request done: requestId: [f7bf87b2-97d6-400f-96eb-a8bded88b0ff] model deployment ID: []
+2024-08-17 23:45:04.430 [info] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 525 ms
+2024-08-17 23:45:04.475 [info] [streamMessages] message 0 returned. finish reason: [stop]
+2024-08-17 23:45:04.476 [info] [streamChoices] request done: requestId: [fe4b41d9-d48e-40a5-b2dd-a1452788e8fa] model deployment ID: []
+2024-08-17 23:46:15.809 [info] [auth] Logged in as Fxy6969
+2024-08-17 23:46:16.538 [info] [auth] Got Copilot token for Fxy6969
+2024-08-17 23:46:16.542 [info] [chat] copilot token chat_enabled: true
+2024-08-17 23:52:28.456 [info] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 1222 ms
+2024-08-17 23:52:32.432 [info] [streamMessages] message 0 returned. finish reason: [stop]
+2024-08-17 23:52:32.435 [info] [streamChoices] request done: requestId: [06ba2e87-6e35-4aad-aada-e3648388c310] model deployment ID: []
+2024-08-17 23:52:33.443 [info] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 745 ms
+2024-08-17 23:52:33.532 [info] [streamMessages] message 0 returned. finish reason: [stop]
+2024-08-17 23:52:33.532 [info] [streamChoices] request done: requestId: [79763916-bc22-464b-bf6e-a5c23e4abc49] model deployment ID: []
+2024-08-18 00:11:16.543 [info] [auth] Logged in as Fxy6969
+2024-08-18 00:11:17.157 [info] [auth] Got Copilot token for Fxy6969
+2024-08-18 00:11:17.160 [info] [chat] copilot token chat_enabled: true
+2024-08-18 00:36:17.160 [info] [auth] Logged in as Fxy6969
+2024-08-18 00:36:17.821 [info] [auth] Got Copilot token for Fxy6969
+2024-08-18 00:36:17.823 [info] [chat] copilot token chat_enabled: true

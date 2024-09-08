@@ -1,0 +1,12 @@
+2024-08-18 16:24:34.563 [info] [FetcherService] Using the Helix fetcher.
+2024-08-18 16:24:34.563 [info] [gitExtensionService] Initializing Git extension service.
+2024-08-18 16:24:34.563 [info] [gitExtensionService] Successfully activated the vscode.git extension.
+2024-08-18 16:24:34.563 [info] [gitExtensionService] Enablement state of the vscode.git extension: true.
+2024-08-18 16:24:34.563 [info] [gitExtensionService] Successfully registered Git commit message provider.
+2024-08-18 16:24:34.591 [info] [RemoteAgents] Unable to fetch remote agents because user is not signed in.
+2024-08-18 16:24:34.659 [info] [auth] Logged in as Fxy6969
+2024-08-18 16:24:34.669 [info] [extension] RootCertificateReader removed 3 expired certificates
+2024-08-18 16:24:35.374 [info] [auth] Got Copilot token for Fxy6969
+2024-08-18 16:24:35.385 [info] [chat] copilot token chat_enabled: true
+2024-08-18 16:24:35.385 [info] [githubTitleAndDescriptionProvider] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-08-18 16:24:36.034 [info] [contributions] activationBlocker from 'languageModelAccess' took for 1443ms

@@ -1,0 +1,53 @@
+2024-08-18 16:24:10.585 [info] [main] Log level: Info
+2024-08-18 16:24:10.585 [info] [main] Validating found git in: "git"
+2024-08-18 16:24:10.585 [info] [main] Using git "2.39.2" from "git"
+2024-08-18 16:24:10.585 [info] [Model][doInitialScan] Initial repository scan started
+2024-08-18 16:24:10.585 [info] > git rev-parse --show-toplevel [3ms]
+2024-08-18 16:24:10.586 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-08-18 16:24:10.603 [info] [Model][openRepository] Opened repository: /home/fxy/Documents/2tal
+2024-08-18 16:24:10.608 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-08-18 16:24:10.621 [info] > git config --get commit.template [6ms]
+2024-08-18 16:24:10.623 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-08-18 16:24:10.632 [info] > git status -z -uall [5ms]
+2024-08-18 16:24:10.645 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2024-08-18 16:24:10.653 [info] > git config --local branch.main.vscode-merge-base [4ms]
+2024-08-18 16:24:10.653 [warning] [Git][config] git config failed: Failed to execute git
+2024-08-18 16:24:10.658 [info] > git config --get commit.template [13ms]
+2024-08-18 16:24:10.897 [info] > git reflog main --grep-reflog=branch: Created from *. [240ms]
+2024-08-18 16:24:10.993 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [92ms]
+2024-08-18 16:24:10.993 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-08-18 16:24:11.047 [info] > git merge-base refs/heads/main refs/remotes/origin/main [50ms]
+2024-08-18 16:24:11.054 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [64ms]
+2024-08-18 16:24:11.157 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [104ms]
+2024-08-18 16:24:11.162 [info] > git fetch [561ms]
+2024-08-18 16:24:11.162 [info] git: 'credential-wincred' is not a git command. See 'git --help'.
+git: 'credential-wincred' is not a git command. See 'git --help'.
+2024-08-18 16:24:11.173 [info] > git diff --name-status -z --diff-filter=ADMR b0f36be4c789cd055e65d73d85f7917ae028bb8f...refs/remotes/origin/main [12ms]
+2024-08-18 16:24:11.178 [info] > git config --get commit.template [6ms]
+2024-08-18 16:24:11.187 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-08-18 16:24:11.193 [info] > git status -z -uall [1ms]
+2024-08-18 16:24:11.200 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-08-18 16:24:11.207 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2024-08-18 16:24:11.207 [warning] [Git][config] git config failed: Failed to execute git
+2024-08-18 16:24:11.215 [info] > git reflog main --grep-reflog=branch: Created from *. [2ms]
+2024-08-18 16:24:11.221 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-08-18 16:24:11.221 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-08-18 16:24:11.429 [info] > git check-ignore -v -z --stdin [7ms]
+2024-08-18 16:24:12.517 [info] > git config --get commit.template [43ms]
+2024-08-18 16:24:12.586 [info] > git show --textconv :main.py [44ms]
+2024-08-18 16:24:12.600 [info] > git ls-files --stage -- /home/fxy/Documents/2tal/main.py [49ms]
+2024-08-18 16:24:12.612 [info] > git cat-file -s c7df4ca922a3c05d526b54b2046834bb40007917 [6ms]
+2024-08-18 16:24:12.613 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [16ms]
+2024-08-18 16:24:13.187 [info] > git status -z -uall [10ms]
+2024-08-18 16:24:13.206 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-08-18 16:24:13.225 [info] > git config --local branch.main.vscode-merge-base [13ms]
+2024-08-18 16:24:13.225 [warning] [Git][config] git config failed: Failed to execute git
+2024-08-18 16:24:13.246 [info] > git reflog main --grep-reflog=branch: Created from *. [16ms]
+2024-08-18 16:24:13.255 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [4ms]
+2024-08-18 16:24:13.255 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-08-18 16:24:22.675 [info] > git ls-files --stage -- /home/fxy/Documents/2tal/config.json [2ms]
+2024-08-18 16:24:22.754 [info] > git show --textconv :config.json [90ms]
+2024-08-18 16:24:22.755 [info] > git cat-file -s 277a7215ce26cc83d14ab6d82e34861df33cc784 [70ms]
+2024-08-18 16:24:24.588 [info] > git show --textconv :main.py [7ms]
+2024-08-18 16:24:24.589 [info] > git ls-files --stage -- /home/fxy/Documents/2tal/main.py [1ms]
+2024-08-18 16:24:24.596 [info] > git cat-file -s c7df4ca922a3c05d526b54b2046834bb40007917 [1ms]

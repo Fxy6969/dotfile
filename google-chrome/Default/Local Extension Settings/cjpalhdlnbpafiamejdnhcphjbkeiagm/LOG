@@ -1,0 +1,21 @@
+2024/09/08-13:03:33.674 21ef Reusing MANIFEST /home/fxy/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/09/08-13:03:33.675 21ef Recovering log #37
+2024/09/08-13:03:33.678 21ef Reusing old log /home/fxy/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000037.log 
+2024/09/08-13:05:05.255 21ef Level-0 table #41: started
+2024/09/08-13:05:05.871 21ef Level-0 table #41: 4499920 bytes OK
+2024/09/08-13:05:06.240 21ef Delete type=0 #37
+2024/09/08-13:05:06.241 21ef Compacting 4@0 + 1@1 files
+2024/09/08-13:05:06.498 21ef Generated table #42@0: 6 keys, 2508170 bytes
+2024/09/08-13:05:06.580 21ef Generated table #43@0: 7 keys, 2729817 bytes
+2024/09/08-13:05:06.662 21ef Generated table #44@0: 4 keys, 2588558 bytes
+2024/09/08-13:05:06.733 21ef Generated table #45@0: 10 keys, 1086213 bytes
+2024/09/08-13:05:06.733 21ef Compacted 4@0 + 1@1 files => 8912758 bytes
+2024/09/08-13:05:06.771 21ef compacted to: files[ 0 4 5 0 0 0 0 ]
+2024/09/08-13:05:06.771 21ef Delete type=2 #35
+2024/09/08-13:05:06.771 21ef Delete type=2 #41
+2024/09/08-13:05:06.771 21ef Delete type=2 #33
+2024/09/08-13:05:06.771 21ef Delete type=2 #30
+2024/09/08-13:05:06.771 21ef Delete type=2 #38
+2024/09/08-13:05:09.131 21ef Level-0 table #47: started
+2024/09/08-13:05:09.259 21ef Level-0 table #47: 4858705 bytes OK
+2024/09/08-13:05:09.304 21ef Delete type=0 #40

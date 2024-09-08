@@ -1,0 +1,240 @@
+2024-08-17 22:28:01.506 [info] (Client) Pylance async client (2024.8.1) started with python extension (2024.12.3)
+2024-08-17 22:28:02.330 [info] [Info  - 10:28:02 PM] (14532) Server root directory: file:///home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-08-17 22:28:02.331 [info] [Info  - 10:28:02 PM] (14532) Experimental Pylance language server 2024.8.1 (pyright version 1.1.373, commit ee424479) starting
+2024-08-17 22:28:06.552 [info] [Info  - 10:28:06 PM] Server process exited successfully
+2024-08-17 22:28:07.076 [info] (Client) Pylance async client (2024.8.1) started with python extension (2024.12.3)
+2024-08-17 22:28:07.522 [info] [Info  - 10:28:07 PM] (14593) Server root directory: file:///home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-08-17 22:28:07.522 [info] [Info  - 10:28:07 PM] (14593) Experimental Pylance language server 2024.8.1 (pyright version 1.1.373, commit ee424479) starting
+2024-08-17 22:28:29.519 [info] [Info  - 10:28:29 PM] Server process exited successfully
+2024-08-17 22:28:30.092 [info] (Client) Pylance async client (2024.8.1) started with python extension (2024.12.3)
+2024-08-17 22:28:30.542 [info] [Info  - 10:28:30 PM] (14677) Server root directory: file:///home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-08-17 22:28:30.543 [info] [Info  - 10:28:30 PM] (14677) Experimental Pylance language server 2024.8.1 (pyright version 1.1.373, commit ee424479) starting
+2024-08-17 22:28:41.412 [info] [Info  - 10:28:41 PM] Server process exited successfully
+2024-08-17 22:28:41.957 [info] (Client) Pylance async client (2024.8.1) started with python extension (2024.12.3)
+2024-08-17 22:28:42.410 [info] [Info  - 10:28:42 PM] (14727) Server root directory: file:///home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-08-17 22:28:42.411 [info] [Info  - 10:28:42 PM] (14727) Experimental Pylance language server 2024.8.1 (pyright version 1.1.373, commit ee424479) starting
+2024-08-17 22:28:52.225 [info] [Info  - 10:28:52 PM] Server process exited successfully
+2024-08-17 22:28:52.752 [info] (Client) Pylance async client (2024.8.1) started with python extension (2024.12.3)
+2024-08-17 22:28:53.215 [info] [Info  - 10:28:53 PM] (14783) Server root directory: file:///home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-08-17 22:28:53.216 [info] [Info  - 10:28:53 PM] (14783) Experimental Pylance language server 2024.8.1 (pyright version 1.1.373, commit ee424479) starting
+2024-08-17 22:29:54.592 [info] [Info  - 10:29:54 PM] Server process exited successfully
+2024-08-17 22:29:55.133 [info] (Client) Pylance async client (2024.8.1) started with python extension (2024.12.3)
+2024-08-17 22:29:55.592 [info] [Info  - 10:29:55 PM] (14933) Server root directory: file:///home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-08-17 22:29:55.593 [info] [Info  - 10:29:55 PM] (14933) Experimental Pylance language server 2024.8.1 (pyright version 1.1.373, commit ee424479) starting
+2024-08-17 22:30:27.653 [info] (Client) Pylance async client (2024.8.1) started with python extension (2024.12.3)
+2024-08-17 22:30:28.078 [info] [Info  - 10:30:28 PM] (15093) Server root directory: file:///home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-08-17 22:30:28.086 [info] [Info  - 10:30:28 PM] (15093) Experimental Pylance language server 2024.8.1 (pyright version 1.1.373, commit ee424479) starting
+2024-08-17 22:30:28.087 [info] [Info  - 10:30:28 PM] (15093) Starting service instance "2tal"
+2024-08-17 22:30:28.211 [info] [Info  - 10:30:28 PM] (15093) No source files found.
+2024-08-17 22:30:28.290 [info] [Info  - 10:30:28 PM] Server process exited successfully
+2024-08-17 22:30:29.014 [info] (Client) Pylance async client (2024.8.1) started with python extension (2024.12.3)
+2024-08-17 22:30:29.471 [info] [Info  - 10:30:29 PM] (15140) Server root directory: file:///home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-08-17 22:30:29.472 [info] [Info  - 10:30:29 PM] (15140) Experimental Pylance language server 2024.8.1 (pyright version 1.1.373, commit ee424479) starting
+2024-08-17 22:30:29.477 [info] [Info  - 10:30:29 PM] (15140) Starting service instance "2tal"
+2024-08-17 22:30:29.502 [info] [Info  - 10:30:29 PM] (15140) Setting pythonPath for service "2tal": "/bin/python3"
+2024-08-17 22:30:29.502 [info] [Info  - 10:30:29 PM] (15140) Setting environmentName for service "2tal": "3.11.2 (global)"
+2024-08-17 22:30:29.502 [info] [Info  - 10:30:29 PM] (15140) No include entries specified; assuming /home/fxy/Documents/2tal
+2024-08-17 22:30:29.503 [info] [Info  - 10:30:29 PM] (15140) Auto-excluding **/node_modules
+2024-08-17 22:30:29.503 [info] [Info  - 10:30:29 PM] (15140) Auto-excluding **/__pycache__
+2024-08-17 22:30:29.504 [info] [Info  - 10:30:29 PM] (15140) Auto-excluding **/.*
+2024-08-17 22:30:29.523 [info] [Info  - 10:30:29 PM] (15140) Assuming Python version 3.11.2.final.0
+2024-08-17 22:30:29.568 [info] [Info  - 10:30:29 PM] (15140) No source files found.
+2024-08-17 22:30:29.909 [info] [Info  - 10:30:29 PM] (15140) Background analysis(1) root directory: file:///home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-08-17 22:30:29.911 [info] [Info  - 10:30:29 PM] (15140) Background analysis(1) started
+2024-08-17 22:31:12.888 [info] [Info  - 10:31:12 PM] (15140) Setting pythonPath for service "2tal": "/bin/python3"
+2024-08-17 22:31:12.888 [info] [Info  - 10:31:12 PM] (15140) Setting environmentName for service "2tal": "3.11.2 (global)"
+2024-08-17 22:31:12.888 [info] [Info  - 10:31:12 PM] (15140) No include entries specified; assuming /home/fxy/Documents/2tal
+2024-08-17 22:31:12.888 [info] [Info  - 10:31:12 PM] (15140) Auto-excluding **/node_modules
+2024-08-17 22:31:12.888 [info] [Info  - 10:31:12 PM] (15140) Auto-excluding **/__pycache__
+2024-08-17 22:31:12.888 [info] [Info  - 10:31:12 PM] (15140) Auto-excluding **/.*
+2024-08-17 22:31:12.924 [info] [Info  - 10:31:12 PM] (15140) Assuming Python version 3.11.2.final.0
+2024-08-17 22:31:12.967 [info] [Info  - 10:31:12 PM] (15140) No source files found.
+2024-08-17 22:31:12.994 [info] [Info  - 10:31:12 PM] Server process exited successfully
+2024-08-17 22:31:13.731 [info] (Client) Pylance async client (2024.8.1) started with python extension (2024.12.3)
+2024-08-17 22:31:14.218 [info] [Info  - 10:31:14 PM] (16015) Server root directory: file:///home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-08-17 22:31:14.220 [info] [Info  - 10:31:14 PM] (16015) Experimental Pylance language server 2024.8.1 (pyright version 1.1.373, commit ee424479) starting
+2024-08-17 22:31:14.225 [info] [Info  - 10:31:14 PM] (16015) Starting service instance "2tal"
+2024-08-17 22:31:14.284 [info] [Info  - 10:31:14 PM] (16015) Setting pythonPath for service "2tal": "/bin/python3"
+2024-08-17 22:31:14.284 [info] [Info  - 10:31:14 PM] (16015) Setting environmentName for service "2tal": "3.11.2 (global)"
+2024-08-17 22:31:14.284 [info] [Info  - 10:31:14 PM] (16015) No include entries specified; assuming /home/fxy/Documents/2tal
+2024-08-17 22:31:14.285 [info] [Info  - 10:31:14 PM] (16015) Auto-excluding **/node_modules
+2024-08-17 22:31:14.286 [info] [Info  - 10:31:14 PM] (16015) Auto-excluding **/__pycache__
+2024-08-17 22:31:14.286 [info] [Info  - 10:31:14 PM] (16015) Auto-excluding **/.*
+2024-08-17 22:31:14.316 [info] [Info  - 10:31:14 PM] (16015) Assuming Python version 3.11.2.final.0
+2024-08-17 22:31:14.367 [info] [Info  - 10:31:14 PM] (16015) No source files found.
+2024-08-17 22:31:14.686 [info] [Info  - 10:31:14 PM] (16015) Background analysis(1) root directory: file:///home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-08-17 22:31:14.688 [info] [Info  - 10:31:14 PM] (16015) Background analysis(1) started
+2024-08-17 22:31:28.735 [info] [Info  - 10:31:28 PM] (16015) Starting service instance "<default>"
+2024-08-17 22:31:28.780 [info] [Info  - 10:31:28 PM] (16015) Setting pythonPath for service "<default>": "/bin/python3"
+2024-08-17 22:31:28.780 [info] [Info  - 10:31:28 PM] (16015) Setting environmentName for service "<default>": "3.11.2 (global)"
+2024-08-17 22:31:28.780 [info] [Info  - 10:31:28 PM] (16015) No include entries specified; assuming /<default workspace root>
+2024-08-17 22:31:28.780 [info] [Info  - 10:31:28 PM] (16015) Auto-excluding **/node_modules
+2024-08-17 22:31:28.780 [info] [Info  - 10:31:28 PM] (16015) Auto-excluding **/__pycache__
+2024-08-17 22:31:28.780 [info] [Info  - 10:31:28 PM] (16015) Auto-excluding **/.*
+2024-08-17 22:31:28.814 [info] [Info  - 10:31:28 PM] (16015) Assuming Python version 3.11.2.final.0
+2024-08-17 22:31:28.874 [info] [Error - 10:31:28 PM] (16015) File or directory "/<default workspace root>" does not exist.
+2024-08-17 22:31:28.874 [info] [Info  - 10:31:28 PM] (16015) No source files found.
+2024-08-17 22:31:28.911 [info] [Info  - 10:31:28 PM] (16015) Indexer background runner(2) root directory: file:///home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist (index)
+2024-08-17 22:31:28.914 [info] [Info  - 10:31:28 PM] (16015) Indexing(2) started
+2024-08-17 22:31:28.987 [info] [Info  - 10:31:28 PM] (16015) Found 1 source file
+2024-08-17 22:31:29.536 [info] [Info  - 10:31:29 PM] (16015) scanned(2) 40 files over 1 exec env
+2024-08-17 22:31:29.691 [info] [Info  - 10:31:29 PM] (16015) Background analysis(3) root directory: file:///home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-08-17 22:31:29.691 [info] [Info  - 10:31:29 PM] (16015) Background analysis(3) started
+2024-08-17 22:31:30.869 [info] [Info  - 10:31:30 PM] (16015) indexed(2) 23 files over 1 exec env
+2024-08-17 22:31:30.893 [info] [Info  - 10:31:30 PM] (16015) Indexing finished(2).
+2024-08-17 22:32:50.130 [info] [Info  - 10:32:50 PM] (16015) Setting pythonPath for service "2tal": "/bin/python3"
+2024-08-17 22:32:50.131 [info] [Info  - 10:32:50 PM] (16015) Setting environmentName for service "2tal": "3.11.2 (global)"
+2024-08-17 22:32:50.131 [info] [Info  - 10:32:50 PM] (16015) No include entries specified; assuming /home/fxy/Documents/2tal
+2024-08-17 22:32:50.131 [info] [Info  - 10:32:50 PM] (16015) Auto-excluding **/node_modules
+2024-08-17 22:32:50.131 [info] [Info  - 10:32:50 PM] (16015) Auto-excluding **/__pycache__
+2024-08-17 22:32:50.131 [info] [Info  - 10:32:50 PM] (16015) Auto-excluding **/.*
+2024-08-17 22:32:50.152 [info] [Info  - 10:32:50 PM] (16015) Assuming Python version 3.11.2.final.0
+2024-08-17 22:32:50.194 [info] [Info  - 10:32:50 PM] (16015) Found 1 source file
+2024-08-17 22:32:50.237 [info] [Info  - 10:32:50 PM] (16015) Setting pythonPath for service "<default>": "/bin/python3"
+2024-08-17 22:32:50.237 [info] [Info  - 10:32:50 PM] (16015) Setting environmentName for service "<default>": "3.11.2 (global)"
+2024-08-17 22:32:50.237 [info] [Info  - 10:32:50 PM] (16015) No include entries specified; assuming /<default workspace root>
+2024-08-17 22:32:50.237 [info] [Info  - 10:32:50 PM] (16015) Auto-excluding **/node_modules
+2024-08-17 22:32:50.237 [info] [Info  - 10:32:50 PM] (16015) Auto-excluding **/__pycache__
+2024-08-17 22:32:50.237 [info] [Info  - 10:32:50 PM] (16015) Auto-excluding **/.*
+2024-08-17 22:32:50.257 [info] [Info  - 10:32:50 PM] (16015) Assuming Python version 3.11.2.final.0
+2024-08-17 22:32:50.303 [info] [Error - 10:32:50 PM] (16015) File or directory "/<default workspace root>" does not exist.
+2024-08-17 22:32:50.303 [info] [Info  - 10:32:50 PM] (16015) No source files found.
+2024-08-17 22:32:50.727 [info] [Info  - 10:32:50 PM] (16015) Indexer background runner(4) root directory: file:///home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist (index)
+2024-08-17 22:32:50.727 [info] [Info  - 10:32:50 PM] (16015) Indexing(4) started
+2024-08-17 22:32:50.951 [info] [Info  - 10:32:50 PM] (16015) scanned(4) 40 files over 1 exec env
+2024-08-17 22:32:51.466 [info] [Info  - 10:32:51 PM] (16015) indexed(4) 23 files over 1 exec env
+2024-08-17 22:32:51.485 [info] [Info  - 10:32:51 PM] (16015) Indexing finished(4).
+2024-08-17 22:32:54.315 [info] [Info  - 10:32:54 PM] (16015) Setting pythonPath for service "2tal": "/bin/python3"
+2024-08-17 22:32:54.320 [info] [Info  - 10:32:54 PM] (16015) Setting environmentName for service "2tal": "3.11.2 (global)"
+2024-08-17 22:32:54.320 [info] [Info  - 10:32:54 PM] (16015) No include entries specified; assuming /home/fxy/Documents/2tal
+2024-08-17 22:32:54.320 [info] [Info  - 10:32:54 PM] (16015) Auto-excluding **/node_modules
+2024-08-17 22:32:54.321 [info] [Info  - 10:32:54 PM] (16015) Auto-excluding **/__pycache__
+2024-08-17 22:32:54.321 [info] [Info  - 10:32:54 PM] (16015) Auto-excluding **/.*
+2024-08-17 22:32:54.337 [info] [Info  - 10:32:54 PM] (16015) Assuming Python version 3.11.2.final.0
+2024-08-17 22:32:54.375 [info] [Info  - 10:32:54 PM] (16015) Found 1 source file
+2024-08-17 22:32:54.417 [info] [Info  - 10:32:54 PM] (16015) Setting pythonPath for service "<default>": "/bin/python3"
+2024-08-17 22:32:54.417 [info] [Info  - 10:32:54 PM] (16015) Setting environmentName for service "<default>": "3.11.2 (global)"
+2024-08-17 22:32:54.417 [info] [Info  - 10:32:54 PM] (16015) No include entries specified; assuming /<default workspace root>
+2024-08-17 22:32:54.417 [info] [Info  - 10:32:54 PM] (16015) Auto-excluding **/node_modules
+2024-08-17 22:32:54.417 [info] [Info  - 10:32:54 PM] (16015) Auto-excluding **/__pycache__
+2024-08-17 22:32:54.417 [info] [Info  - 10:32:54 PM] (16015) Auto-excluding **/.*
+2024-08-17 22:32:54.440 [info] [Info  - 10:32:54 PM] (16015) Assuming Python version 3.11.2.final.0
+2024-08-17 22:32:54.482 [info] [Error - 10:32:54 PM] (16015) File or directory "/<default workspace root>" does not exist.
+2024-08-17 22:32:54.482 [info] [Info  - 10:32:54 PM] (16015) No source files found.
+2024-08-17 22:32:54.900 [info] [Info  - 10:32:54 PM] (16015) Indexer background runner(5) root directory: file:///home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist (index)
+2024-08-17 22:32:54.900 [info] [Info  - 10:32:54 PM] (16015) Indexing(5) started
+2024-08-17 22:32:55.127 [info] [Info  - 10:32:55 PM] (16015) scanned(5) 40 files over 1 exec env
+2024-08-17 22:32:55.636 [info] [Info  - 10:32:55 PM] (16015) indexed(5) 23 files over 1 exec env
+2024-08-17 22:32:55.654 [info] [Info  - 10:32:55 PM] (16015) Indexing finished(5).
+2024-08-17 22:33:02.886 [info] [Info  - 10:33:02 PM] (16015) Setting pythonPath for service "2tal": "/bin/python3"
+2024-08-17 22:33:02.886 [info] [Info  - 10:33:02 PM] (16015) Setting environmentName for service "2tal": "3.11.2 (global)"
+2024-08-17 22:33:02.886 [info] [Info  - 10:33:02 PM] (16015) No include entries specified; assuming /home/fxy/Documents/2tal
+2024-08-17 22:33:02.886 [info] [Info  - 10:33:02 PM] (16015) Auto-excluding **/node_modules
+2024-08-17 22:33:02.886 [info] [Info  - 10:33:02 PM] (16015) Auto-excluding **/__pycache__
+2024-08-17 22:33:02.886 [info] [Info  - 10:33:02 PM] (16015) Auto-excluding **/.*
+2024-08-17 22:33:02.911 [info] [Info  - 10:33:02 PM] (16015) Assuming Python version 3.11.2.final.0
+2024-08-17 22:33:02.954 [info] [Info  - 10:33:02 PM] (16015) Found 1 source file
+2024-08-17 22:33:02.986 [info] [Info  - 10:33:02 PM] (16015) Setting pythonPath for service "<default>": "/bin/python3"
+2024-08-17 22:33:02.987 [info] [Info  - 10:33:02 PM] (16015) Setting environmentName for service "<default>": "3.11.2 (global)"
+2024-08-17 22:33:02.987 [info] [Info  - 10:33:02 PM] (16015) No include entries specified; assuming /<default workspace root>
+2024-08-17 22:33:02.987 [info] [Info  - 10:33:02 PM] (16015) Auto-excluding **/node_modules
+2024-08-17 22:33:02.987 [info] [Info  - 10:33:02 PM] (16015) Auto-excluding **/__pycache__
+2024-08-17 22:33:02.987 [info] [Info  - 10:33:02 PM] (16015) Auto-excluding **/.*
+2024-08-17 22:33:03.048 [info] [Info  - 10:33:03 PM] (16015) Assuming Python version 3.11.2.final.0
+2024-08-17 22:33:03.105 [info] [Error - 10:33:03 PM] (16015) File or directory "/<default workspace root>" does not exist.
+2024-08-17 22:33:03.105 [info] [Info  - 10:33:03 PM] (16015) No source files found.
+2024-08-17 22:33:03.525 [info] [Info  - 10:33:03 PM] (16015) Indexer background runner(6) root directory: file:///home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist (index)
+2024-08-17 22:33:03.525 [info] [Info  - 10:33:03 PM] (16015) Indexing(6) started
+2024-08-17 22:33:03.753 [info] [Info  - 10:33:03 PM] (16015) scanned(6) 40 files over 1 exec env
+2024-08-17 22:33:04.255 [info] [Info  - 10:33:04 PM] (16015) indexed(6) 23 files over 1 exec env
+2024-08-17 22:33:04.271 [info] [Info  - 10:33:04 PM] (16015) Indexing finished(6).
+2024-08-17 22:33:14.479 [info] [Info  - 10:33:14 PM] (16015) Setting pythonPath for service "2tal": "/bin/python3"
+2024-08-17 22:33:14.483 [info] [Info  - 10:33:14 PM] (16015) Setting environmentName for service "2tal": "3.11.2 (global)"
+2024-08-17 22:33:14.483 [info] [Info  - 10:33:14 PM] (16015) No include entries specified; assuming /home/fxy/Documents/2tal
+2024-08-17 22:33:14.483 [info] [Info  - 10:33:14 PM] (16015) Auto-excluding **/node_modules
+2024-08-17 22:33:14.483 [info] [Info  - 10:33:14 PM] (16015) Auto-excluding **/__pycache__
+2024-08-17 22:33:14.483 [info] [Info  - 10:33:14 PM] (16015) Auto-excluding **/.*
+2024-08-17 22:33:14.498 [info] [Info  - 10:33:14 PM] (16015) Assuming Python version 3.11.2.final.0
+2024-08-17 22:33:14.540 [info] [Info  - 10:33:14 PM] (16015) Found 1 source file
+2024-08-17 22:33:14.572 [info] [Info  - 10:33:14 PM] (16015) Setting pythonPath for service "<default>": "/bin/python3"
+2024-08-17 22:33:14.572 [info] [Info  - 10:33:14 PM] (16015) Setting environmentName for service "<default>": "3.11.2 (global)"
+2024-08-17 22:33:14.572 [info] [Info  - 10:33:14 PM] (16015) No include entries specified; assuming /<default workspace root>
+2024-08-17 22:33:14.572 [info] [Info  - 10:33:14 PM] (16015) Auto-excluding **/node_modules
+2024-08-17 22:33:14.572 [info] [Info  - 10:33:14 PM] (16015) Auto-excluding **/__pycache__
+2024-08-17 22:33:14.573 [info] [Info  - 10:33:14 PM] (16015) Auto-excluding **/.*
+2024-08-17 22:33:14.596 [info] [Info  - 10:33:14 PM] (16015) Assuming Python version 3.11.2.final.0
+2024-08-17 22:33:14.644 [info] [Error - 10:33:14 PM] (16015) File or directory "/<default workspace root>" does not exist.
+2024-08-17 22:33:14.647 [info] [Info  - 10:33:14 PM] (16015) No source files found.
+2024-08-17 22:33:15.145 [info] [Info  - 10:33:15 PM] (16015) Indexer background runner(7) root directory: file:///home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist (index)
+2024-08-17 22:33:15.146 [info] [Info  - 10:33:15 PM] (16015) Indexing(7) started
+2024-08-17 22:33:15.329 [info] [Info  - 10:33:15 PM] (16015) scanned(7) 40 files over 1 exec env
+2024-08-17 22:33:15.870 [info] [Info  - 10:33:15 PM] (16015) indexed(7) 23 files over 1 exec env
+2024-08-17 22:33:15.890 [info] [Info  - 10:33:15 PM] (16015) Indexing finished(7).
+2024-08-17 22:33:16.778 [info] [Info  - 10:33:16 PM] (16015) Setting pythonPath for service "2tal": "/bin/python3"
+2024-08-17 22:33:16.778 [info] [Info  - 10:33:16 PM] (16015) Setting environmentName for service "2tal": "3.11.2 (global)"
+2024-08-17 22:33:16.778 [info] [Info  - 10:33:16 PM] (16015) No include entries specified; assuming /home/fxy/Documents/2tal
+2024-08-17 22:33:16.779 [info] [Info  - 10:33:16 PM] (16015) Auto-excluding **/node_modules
+2024-08-17 22:33:16.779 [info] [Info  - 10:33:16 PM] (16015) Auto-excluding **/__pycache__
+2024-08-17 22:33:16.779 [info] [Info  - 10:33:16 PM] (16015) Auto-excluding **/.*
+2024-08-17 22:33:16.801 [info] [Info  - 10:33:16 PM] (16015) Assuming Python version 3.11.2.final.0
+2024-08-17 22:33:16.839 [info] [Info  - 10:33:16 PM] (16015) Found 1 source file
+2024-08-17 22:33:16.874 [info] [Info  - 10:33:16 PM] (16015) Setting pythonPath for service "<default>": "/bin/python3"
+2024-08-17 22:33:16.874 [info] [Info  - 10:33:16 PM] (16015) Setting environmentName for service "<default>": "3.11.2 (global)"
+2024-08-17 22:33:16.874 [info] [Info  - 10:33:16 PM] (16015) No include entries specified; assuming /<default workspace root>
+2024-08-17 22:33:16.874 [info] [Info  - 10:33:16 PM] (16015) Auto-excluding **/node_modules
+2024-08-17 22:33:16.874 [info] [Info  - 10:33:16 PM] (16015) Auto-excluding **/__pycache__
+2024-08-17 22:33:16.874 [info] [Info  - 10:33:16 PM] (16015) Auto-excluding **/.*
+2024-08-17 22:33:16.897 [info] [Info  - 10:33:16 PM] (16015) Assuming Python version 3.11.2.final.0
+2024-08-17 22:33:16.943 [info] [Error - 10:33:16 PM] (16015) File or directory "/<default workspace root>" does not exist.
+2024-08-17 22:33:16.944 [info] [Info  - 10:33:16 PM] (16015) No source files found.
+2024-08-17 22:33:17.339 [info] [Info  - 10:33:17 PM] (16015) Indexer background runner(8) root directory: file:///home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist (index)
+2024-08-17 22:33:17.339 [info] [Info  - 10:33:17 PM] (16015) Indexing(8) started
+2024-08-17 22:33:17.569 [info] [Info  - 10:33:17 PM] (16015) scanned(8) 40 files over 1 exec env
+2024-08-17 22:33:18.067 [info] [Info  - 10:33:18 PM] (16015) indexed(8) 23 files over 1 exec env
+2024-08-17 22:33:18.087 [info] [Info  - 10:33:18 PM] (16015) Indexing finished(8).
+2024-08-17 22:33:21.482 [info] [Info  - 10:33:21 PM] (16015) Setting pythonPath for service "2tal": "/bin/python3"
+2024-08-17 22:33:21.482 [info] [Info  - 10:33:21 PM] (16015) Setting environmentName for service "2tal": "3.11.2 (global)"
+2024-08-17 22:33:21.482 [info] [Info  - 10:33:21 PM] (16015) No include entries specified; assuming /home/fxy/Documents/2tal
+2024-08-17 22:33:21.482 [info] [Info  - 10:33:21 PM] (16015) Auto-excluding **/node_modules
+2024-08-17 22:33:21.482 [info] [Info  - 10:33:21 PM] (16015) Auto-excluding **/__pycache__
+2024-08-17 22:33:21.482 [info] [Info  - 10:33:21 PM] (16015) Auto-excluding **/.*
+2024-08-17 22:33:21.501 [info] [Info  - 10:33:21 PM] (16015) Assuming Python version 3.11.2.final.0
+2024-08-17 22:33:21.537 [info] [Info  - 10:33:21 PM] (16015) Found 1 source file
+2024-08-17 22:33:21.576 [info] [Info  - 10:33:21 PM] (16015) Setting pythonPath for service "<default>": "/bin/python3"
+2024-08-17 22:33:21.576 [info] [Info  - 10:33:21 PM] (16015) Setting environmentName for service "<default>": "3.11.2 (global)"
+2024-08-17 22:33:21.576 [info] [Info  - 10:33:21 PM] (16015) No include entries specified; assuming /<default workspace root>
+2024-08-17 22:33:21.576 [info] [Info  - 10:33:21 PM] (16015) Auto-excluding **/node_modules
+2024-08-17 22:33:21.576 [info] [Info  - 10:33:21 PM] (16015) Auto-excluding **/__pycache__
+2024-08-17 22:33:21.576 [info] [Info  - 10:33:21 PM] (16015) Auto-excluding **/.*
+2024-08-17 22:33:21.603 [info] [Info  - 10:33:21 PM] (16015) Assuming Python version 3.11.2.final.0
+2024-08-17 22:33:21.648 [info] [Error - 10:33:21 PM] (16015) File or directory "/<default workspace root>" does not exist.
+2024-08-17 22:33:21.648 [info] [Info  - 10:33:21 PM] (16015) No source files found.
+2024-08-17 22:33:22.034 [info] [Info  - 10:33:22 PM] (16015) Indexer background runner(9) root directory: file:///home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist (index)
+2024-08-17 22:33:22.034 [info] [Info  - 10:33:22 PM] (16015) Indexing(9) started
+2024-08-17 22:33:22.253 [info] [Info  - 10:33:22 PM] (16015) scanned(9) 40 files over 1 exec env
+2024-08-17 22:33:22.765 [info] [Info  - 10:33:22 PM] (16015) indexed(9) 23 files over 1 exec env
+2024-08-17 22:33:22.783 [info] [Info  - 10:33:22 PM] (16015) Indexing finished(9).
+2024-08-17 23:51:42.031 [info] [Error - 11:51:42 PM] (16015) IntelliCode exception: Error: failed to call OrtRun(). ERROR_CODE: 2, ERROR_MESSAGE: Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+    at t.checkLastError (/home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist/vendor.bundle.js:2:416251)
+    at Object.t.run (/home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist/vendor.bundle.js:2:411162)
+    at t.run (/home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist/vendor.bundle.js:2:400013)
+    at t.OnnxruntimeWebAssemblySessionHandler.run (/home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist/vendor.bundle.js:2:402860)
+    at s.run (/home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist/vendor.bundle.js:2:2180206)
+    at _0x409576.getRecommendations (/home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist/server.bundle.js:1:399219)
+    at _0x5834d5.addCompletionItems (/home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist/server.bundle.js:1:410636)
+    at /home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist/server.bundle.js:1:981279
+    at _0x32fe5d.handleCompletion (/home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist/server.bundle.js:1:977464)
+2024-08-17 23:51:42.581 [info] [Error - 11:51:42 PM] (16015) IntelliCode exception: Error: failed to call OrtRun(). ERROR_CODE: 2, ERROR_MESSAGE: Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+    at t.checkLastError (/home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist/vendor.bundle.js:2:416251)
+    at Object.t.run (/home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist/vendor.bundle.js:2:411162)
+    at t.run (/home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist/vendor.bundle.js:2:400013)
+    at t.OnnxruntimeWebAssemblySessionHandler.run (/home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist/vendor.bundle.js:2:402860)
+    at s.run (/home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist/vendor.bundle.js:2:2180206)
+    at _0x409576.getRecommendations (/home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist/server.bundle.js:1:399219)
+    at _0x5834d5.addCompletionItems (/home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist/server.bundle.js:1:410636)
+    at /home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist/server.bundle.js:1:981279
+    at _0x32fe5d.handleCompletion (/home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist/server.bundle.js:1:977464)

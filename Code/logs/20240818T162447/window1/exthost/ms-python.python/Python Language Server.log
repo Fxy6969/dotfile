@@ -1,0 +1,31 @@
+2024-08-18 16:24:50.117 [info] (Client) Pylance async client (2024.8.1) started with python extension (2024.12.3)
+2024-08-18 16:24:50.650 [info] [Info  - 4:24:50 PM] (32320) Server root directory: file:///home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-08-18 16:24:50.651 [info] [Info  - 4:24:50 PM] (32320) Experimental Pylance language server 2024.8.1 (pyright version 1.1.373, commit ee424479) starting
+2024-08-18 16:24:50.654 [info] [Info  - 4:24:50 PM] (32320) Starting service instance "2tal"
+2024-08-18 16:24:50.769 [info] [Info  - 4:24:50 PM] (32320) Setting pythonPath for service "2tal": "/bin/python3"
+2024-08-18 16:24:50.769 [info] [Info  - 4:24:50 PM] (32320) Setting environmentName for service "2tal": "3.11.2 (global)"
+2024-08-18 16:24:50.770 [info] [Info  - 4:24:50 PM] (32320) No include entries specified; assuming /home/fxy/Documents/2tal
+2024-08-18 16:24:50.771 [info] [Info  - 4:24:50 PM] (32320) Auto-excluding **/node_modules
+2024-08-18 16:24:50.771 [info] [Info  - 4:24:50 PM] (32320) Auto-excluding **/__pycache__
+2024-08-18 16:24:50.771 [info] [Info  - 4:24:50 PM] (32320) Auto-excluding **/.*
+2024-08-18 16:24:50.801 [info] [Info  - 4:24:50 PM] (32320) Assuming Python version 3.11.2.final.0
+2024-08-18 16:24:50.878 [info] [Info  - 4:24:50 PM] (32320) Found 1 source file
+2024-08-18 16:24:51.420 [info] [Info  - 4:24:51 PM] (32320) Background analysis(1) root directory: file:///home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-08-18 16:24:51.424 [info] [Info  - 4:24:51 PM] (32320) Background analysis(1) started
+2024-08-18 16:24:52.118 [info] [Info  - 4:24:52 PM] (32320) Indexer background runner(2) root directory: file:///home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist (index)
+2024-08-18 16:24:52.118 [info] [Info  - 4:24:52 PM] (32320) Indexing(2) started
+2024-08-18 16:24:52.269 [info] [Info  - 4:24:52 PM] (32320) scanned(2) 78 files over 1 exec env
+2024-08-18 16:24:52.436 [info] [Info  - 4:24:52 PM] (32320) indexed(2) 53 files over 1 exec env
+2024-08-18 16:24:52.471 [info] [Info  - 4:24:52 PM] (32320) Indexing finished(2).
+2024-08-18 16:24:55.016 [info] [Info  - 4:24:55 PM] (32320) Starting service instance "<default>"
+2024-08-18 16:24:55.039 [info] [Info  - 4:24:55 PM] (32320) Setting pythonPath for service "<default>": "/bin/python3"
+2024-08-18 16:24:55.039 [info] [Info  - 4:24:55 PM] (32320) Setting environmentName for service "<default>": "3.11.2 (global)"
+2024-08-18 16:24:55.039 [info] [Info  - 4:24:55 PM] (32320) No include entries specified; assuming /<default workspace root>
+2024-08-18 16:24:55.039 [info] [Info  - 4:24:55 PM] (32320) Auto-excluding **/node_modules
+2024-08-18 16:24:55.039 [info] [Info  - 4:24:55 PM] (32320) Auto-excluding **/__pycache__
+2024-08-18 16:24:55.039 [info] [Info  - 4:24:55 PM] (32320) Auto-excluding **/.*
+2024-08-18 16:24:55.068 [info] [Info  - 4:24:55 PM] (32320) Assuming Python version 3.11.2.final.0
+2024-08-18 16:24:55.100 [info] [Error - 4:24:55 PM] (32320) File or directory "/<default workspace root>" does not exist.
+2024-08-18 16:24:55.101 [info] [Info  - 4:24:55 PM] (32320) No source files found.
+2024-08-18 16:24:56.098 [info] [Info  - 4:24:56 PM] (32320) Background analysis(3) root directory: file:///home/fxy/.vscode/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-08-18 16:24:56.121 [info] [Info  - 4:24:56 PM] (32320) Background analysis(3) started

@@ -1,0 +1,7 @@
+{
+    "checker_type": "2take1",
+    "proxy": {
+        "type": "http",
+        ""
+    }
+}
